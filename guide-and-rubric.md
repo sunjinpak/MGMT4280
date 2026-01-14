@@ -6,7 +6,7 @@ title: Guide and Rubric for Online Presenters
 
 [← Back to Home](index) | [Team Presentation Schedule →](team-presentation-schedule)
 
-# Guide and Rubric for Online Presenters and Audiences
+# Guide and Rubric for Online Presenters
 
 ## Table of Contents
 1. [Overview](#overview)
