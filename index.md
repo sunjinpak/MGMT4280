@@ -10,16 +10,16 @@ title: Home
 
 ---
 
-## 📚 Course Materials
+## Course Materials
 
 | Document | Description |
 |----------|-------------|
-| [Guide and Rubric for Online Presenters](Guide%20and%20Rubric%20for%20Online%20Presenters) | Complete guide for team presentations including grading rubric |
-| [Team Presentation Schedule](Team%20Presentation%20Schedule) | Module assignments, presentation structure, and timeline |
+| [Guide and Rubric for Online Presenters](guide-and-rubric) | Complete guide for team presentations including grading rubric |
+| [Team Presentation Schedule](team-presentation-schedule) | Module assignments, presentation structure, and timeline |
 
 ---
 
-## 🎯 Quick Reference
+## Quick Reference
 
 - **Presentation Length**: 25 minutes
 - **Video Format**: YouTube (Unlisted)
@@ -28,7 +28,7 @@ title: Home
 
 ---
 
-## 📧 Contact
+## Contact
 
 **Professor Sunjin Pak**  
 Email: spak2@csub.edu
