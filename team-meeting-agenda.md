@@ -62,6 +62,12 @@ title: Team Meeting Agenda
 - Capture completion codes at the end
 - Share notes with team after the meeting
 
+> **Tip for Note Taker**:
+> 1. Click **"Download Word Document"** at the top of this page to download the template
+> 2. Fill in the notes as your team discusses (sharing your screen is recommended)
+> 3. Keep notes brief and simple
+> 4. **Alternative**: If you record the meeting via Zoom, you can download the transcription after the meeting and ask AI to format it according to this meeting note template
+
 ---
 
 ## Meeting Agenda
