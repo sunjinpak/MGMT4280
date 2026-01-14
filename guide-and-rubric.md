@@ -3,14 +3,17 @@ layout: default
 title: Guide and Rubric for Online Presenters
 ---
 
+
+[← Back to Home](index) | [Team Presentation Schedule →](team-presentation-schedule)
+
 # Guide and Rubric for Online Presenters and Audiences
 
 ## Table of Contents
-1. [[#Overview]]
-2. [[#Create a Slide]]
-3. [[#Record the Presentation and Create a Video Link]]
-4. [[#Linking Materials to Your Syllabus]]
-5. [[#Grading Rubric]]
+1. [Overview](#overview)
+2. [Create a Slide](#create-a-slide)
+3. [Record the Presentation](#record-the-presentation-and-create-a-video-link)
+4. [Linking Materials](#linking-materials-to-your-syllabus)
+5. [Grading Rubric](#grading-rubric-total-100-points)
 
 ---
 
@@ -26,7 +29,7 @@ Teams are required to:
 - Post them along with the video link on the Canvas discussion board
 - After posting, each team member must respond to at least **five comments**
 
-**Related**: [[Team Presentation Schedule]]
+**Related**: [Team Presentation Schedule](team-presentation-schedule)
 
 ---
 
@@ -280,5 +283,5 @@ Please format the title as: [MGMT 4280] Module <number>: <title> - Team <#>
 ---
 
 ## Related Files
-- [[Team Presentation Schedule]]
-- [[MGMT 4280 Syllabus]]
+- [Team Presentation Schedule](team-presentation-schedule)
+- 

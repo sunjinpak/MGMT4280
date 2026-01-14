@@ -3,13 +3,16 @@ layout: default
 title: Team Presentation Schedule
 ---
 
+
+[← Back to Home](index) | [Guide and Rubric →](guide-and-rubric)
+
 # Team Presentation Schedule
 
 ## Overview
 - **Total Teams**: 11
 - **Presentation Modules**: Module 2-12 (11 modules)
 - **Format**: YouTube video presentation (25 minutes)
-- **Guide**: [[Guide and Rubric for Online Presenters]]
+- **Guide**: [Guide and Rubric](guide-and-rubric)
 
 ---
 
@@ -95,7 +98,7 @@ Discuss the following during Week 2 Team Meeting:
 - Create 3 discussion questions related to the case
 - Briefly explain their importance
 - **These questions will be used for team meeting discussions during the week**
-- Assign roles for role-based discussion (see [[Guide and Rubric for Online Presenters]])
+- Assign roles for role-based discussion (see [Guide and Rubric](guide-and-rubric))
 
 **Team Discussion Roles (4 members):**
 | Role | Responsibility |
@@ -155,6 +158,6 @@ Discuss the following during Week 2 Team Meeting:
 ---
 
 ## Related Files
-- [[Guide and Rubric for Online Presenters]]
-- [[MGMT 4280 Syllabus]]
-- [[Roster]]
+- [Guide and Rubric](guide-and-rubric)
+- 
+- 
