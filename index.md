@@ -16,6 +16,7 @@ title: Home
 |----------|-------------|
 | [Guide and Rubric for Online Presenters](guide-and-rubric) | Complete guide for team presentations including grading rubric |
 | [Team Presentation Schedule](team-presentation-schedule) | Module assignments, presentation structure, and timeline |
+| [Team Meeting Agenda](team-meeting-agenda) | Template for weekly team meeting notes and discussions |
 
 ---
 

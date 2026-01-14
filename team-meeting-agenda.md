@@ -1,0 +1,177 @@
+---
+layout: default
+title: Team Meeting Agenda
+---
+
+
+[← Back to Home](index) | [Guide and Rubric →](guide-and-rubric)
+
+# Team Meeting Agenda
+
+## Table of Contents
+1. [Basic Information](#basic-information)
+2. [Guidelines](#guidelines)
+3. [Meeting Agenda](#meeting-agenda)
+4. [Wrap-Up](#wrap-up)
+5. [Self and Peer Evaluation](#self-and-peer-evaluation)
+
+---
+
+## Basic Information
+
+| Item | Details |
+|------|---------|
+| **Date** | [MM/DD/YYYY] |
+| **Time** | [Start Time] - [End Time] |
+| **Location** | [Zoom Link / Room Number] |
+| **Team Number** | Team [#] |
+| **Module** | Module [#]: [Topic] |
+
+### Attendance
+
+| Name | Role This Week | Present/Absent |
+|------|----------------|----------------|
+| [Member 1] | Meeting Facilitator | |
+| [Member 2] | Note Taker | |
+| [Member 3] | [Role] | |
+| [Member 4] | [Role] | |
+
+---
+
+## Guidelines
+
+### Meeting Facilitator
+- Start the meeting on time
+- Guide the team through each agenda item
+- Keep discussions focused and on track
+- Ensure everyone has a chance to speak
+- Monitor time for each section
+
+### Note Taker
+- Record key discussion points
+- Document decisions made
+- Note action items and responsible parties
+- Capture completion codes at the end
+- Share notes with team after the meeting
+
+---
+
+## Meeting Agenda
+
+### 1. Case Review (~5 minutes)
+
+**Case Name**: [Case Name from Presenter's Video]
+
+**Brief Summary**:
+[Write 2-3 sentences summarizing the case situation]
+
+### 2. IRAC Analysis (~10 minutes)
+
+Discuss the case using the IRAC Framework:
+
+| Component | Discussion Notes |
+|-----------|------------------|
+| **I - Issue** | What is the legal question the court must decide? |
+| | [Team's notes] |
+| **R - Rule** | What laws or legal principles apply? |
+| | [Team's notes] |
+| **A - Application** | How did the court apply the rule to the facts? |
+| | [Team's notes] |
+| **C - Conclusion** | What was the court's decision? |
+| | [Team's notes] |
+
+**California vs. Federal Law**:
+[How would the outcome differ under California law?]
+
+### 3. Discussion Questions (~20 minutes)
+
+> **Note**: Questions are from the presenting team's video. Each team member takes on a role for the discussion.
+
+#### Discussion Roles
+
+| Role | Assigned To | Responsibility |
+|------|-------------|----------------|
+| **Employee Advocate** | [Name] | Argues from the employee's perspective |
+| **Employer Representative** | [Name] | Argues from the employer's perspective |
+| **HR Manager** | [Name] | Focuses on policy implications, best practices, and facilitates discussion |
+| **Legal Advisor** | [Name] | Analyzes legal risks, compliance issues, and summarizes key points |
+
+#### Question 1
+**Q**: [Copy Question 1 from presenter's video]
+
+**Lead Roles**: [e.g., Employee Advocate vs. Employer Representative]
+
+**Discussion Notes**:
+- Employee Advocate's perspective:
+- Employer Representative's perspective:
+- HR Manager's input:
+- Legal Advisor's summary:
+
+#### Question 2
+**Q**: [Copy Question 2 from presenter's video]
+
+**Lead Roles**: [e.g., HR Manager, Legal Advisor]
+
+**Discussion Notes**:
+- Employee Advocate's perspective:
+- Employer Representative's perspective:
+- HR Manager's input:
+- Legal Advisor's summary:
+
+#### Question 3
+**Q**: [Copy Question 3 from presenter's video]
+
+**Lead Roles**: [e.g., Legal Advisor, HR Manager (facilitates debate)]
+
+**Discussion Notes**:
+- Employee Advocate's perspective:
+- Employer Representative's perspective:
+- HR Manager's input:
+- Legal Advisor's summary:
+
+---
+
+## Wrap-Up (~1 minute)
+
+### Key Takeaways
+1. [Main learning point 1]
+2. [Main learning point 2]
+3. [Main learning point 3]
+
+### Next Meeting
+| Item | Details |
+|------|---------|
+| **Date** | [Next meeting date] |
+| **Module** | Module [#]: [Topic] |
+| **Facilitator** | [Name] |
+| **Note Taker** | [Name] |
+
+---
+
+## Self and Peer Evaluation (~5 minutes)
+
+> **Important**: All team members must complete the self and peer evaluation survey before leaving the meeting.
+
+### Survey Instructions
+1. Open the evaluation survey link provided on Canvas
+2. Rate yourself and each team member honestly
+3. Provide constructive feedback
+4. Submit the survey and receive your completion code
+
+### Completion Codes
+
+| Team Member | Completion Code |
+|-------------|-----------------|
+| [Name 1] | |
+| [Name 2] | |
+| [Name 3] | |
+| [Name 4] | |
+
+> **Reminder**: Add these completion codes to your presentation slides if you are the presenting team this week.
+
+---
+
+## Related Files
+- [Guide and Rubric](guide-and-rubric)
+- [Team Presentation Schedule](team-presentation-schedule)
+
