@@ -1,3 +1,8 @@
+---
+layout: default
+title: Guide and Rubric for Online Presenters
+---
+
 # Guide and Rubric for Online Presenters and Audiences
 
 ## Table of Contents

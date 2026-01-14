@@ -1,3 +1,8 @@
+---
+layout: default
+title: Team Presentation Schedule
+---
+
 # Team Presentation Schedule
 
 ## Overview
