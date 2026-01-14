@@ -6,6 +6,8 @@ title: Guide and Rubric for Online Presenters
 
 [← Back to Home](index) | [Team Presentation Schedule →](team-presentation-schedule)
 
+**[Download Word Document](Guide-and-Rubric.docx)**
+
 # Guide and Rubric for Online Presenters
 
 ## Table of Contents

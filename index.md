@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+**[Download Word Document](MGMT4280-Home.docx)**
+
 # MGMT 4280: Current Topics in Human Resource Management
 
 **California State University, Bakersfield**  

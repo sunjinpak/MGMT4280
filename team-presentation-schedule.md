@@ -6,6 +6,8 @@ title: Team Presentation Schedule
 
 [← Back to Home](index) | [Guide and Rubric →](guide-and-rubric)
 
+**[Download Word Document](Team-Presentation-Schedule.docx)**
+
 # Team Presentation Schedule
 
 ## Overview
