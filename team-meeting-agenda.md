@@ -22,19 +22,25 @@ title: Team Meeting Agenda
 | Item | Details |
 |------|---------|
 | **Date** | [MM/DD/YYYY] |
-| **Time** | [Start Time] - [End Time] |
-| **Location** | [Zoom Link / Room Number] |
+| **Time** | [00:00 AM/PM] - [00:00 AM/PM] |
+| **Location** | [Zoom Link] |
 | **Team Number** | Team [#] |
 | **Module** | Module [#]: [Topic] |
 
+> **Example**: Module 5: Overtime
+
+> **Note**: Meetings are conducted online via Zoom. However, if all team members agree, you may meet in person.
+
 ### Attendance
 
-| Name | Role This Week | Present/Absent |
-|------|----------------|----------------|
-| [Member 1] | Meeting Facilitator | |
-| [Member 2] | Note Taker | |
-| [Member 3] | [Role] | |
-| [Member 4] | [Role] | |
+> **Important**: If a team member does not join the online meeting with other team members, they must be marked as **Absent**.
+
+| Name | Meeting Role | Discussion Role | Present/Absent |
+|------|--------------|-----------------|----------------|
+| [Member 1] | Meeting Facilitator | Employee Advocate | |
+| [Member 2] | Note Taker | Employer Representative | |
+| [Member 3] | - | HR Manager | |
+| [Member 4] | - | Legal Advisor | |
 
 ---
 
@@ -153,7 +159,10 @@ Discuss the case using the IRAC Framework:
 > **Important**: All team members must complete the self and peer evaluation survey before leaving the meeting.
 
 ### Survey Instructions
-1. Open the evaluation survey link provided on Canvas
+
+> **Tip**: The survey link is provided in the syllabus. Bookmark it since the same link will be used throughout the semester.
+
+1. Open the evaluation survey link from the syllabus
 2. Rate yourself and each team member honestly
 3. Provide constructive feedback
 4. Submit the survey and receive your completion code
