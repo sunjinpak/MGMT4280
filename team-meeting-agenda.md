@@ -6,6 +6,8 @@ title: Team Meeting Agenda
 
 [← Back to Home](index) | [Guide and Rubric →](guide-and-rubric)
 
+**[Download Word Document](Team-Meeting-Agenda.docx)**
+
 # Team Meeting Agenda
 
 ## Table of Contents
