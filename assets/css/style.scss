@@ -1,0 +1,62 @@
+---
+---
+
+@import "jekyll-theme-cayman";
+
+/* Custom styles for MGMT 4280 */
+
+/* Make all text black */
+body {
+  color: #000000;
+}
+
+.main-content {
+  color: #000000;
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  color: #000000;
+}
+
+.main-content p,
+.main-content li,
+.main-content td,
+.main-content th {
+  color: #000000;
+}
+
+/* Make links blue */
+.main-content a {
+  color: #0066cc;
+}
+
+.main-content a:hover {
+  color: #004499;
+  text-decoration: underline;
+}
+
+/* Table styling */
+.main-content table th {
+  color: #000000;
+  background-color: #f0f0f0;
+}
+
+.main-content table td {
+  color: #000000;
+}
+
+/* Blockquote styling */
+.main-content blockquote {
+  color: #000000;
+  border-left-color: #0066cc;
+}
+
+/* Code blocks */
+.main-content code {
+  color: #000000;
+}
