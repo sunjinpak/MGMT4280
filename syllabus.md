@@ -161,16 +161,23 @@ I will work hard to stay on that schedule. However, life is unpredictable, so a 
 ## 6. Course Assessment
 
 ### Grading Criteria
+
 | Assessment | Points | % |
-| --- | --- | --- |
-| Week 1 Activity (Syllabus Quiz 5pts, Canvas profile 5pts, Google Form 1pt, Team meeting quiz 2pts) | **Total 13 points** | 1.10% |
-| Module Review Quiz (x12 times) | 10 points x 12 = **120 points** | 10.19% |
-| Team Meeting Activity (x13 times) - [Team Meeting Rubric](team-meeting-agenda) | 10 pts x 13 = 130 pts + 5 pts x 13 = 65 pts = **Total 195 points** | 16.55% |
-| Team Presentation - [Guide and Rubric for Online Presenters](guide-and-rubric) | 140 + 60 = **Total 200 points** | 16.98% |
+|---|---|---|
+| Week 1 Activity | 13 points | 1.10% |
+| Module Review Quiz (x12) | 120 points | 10.19% |
+| Team Meeting Activity (x13) | 195 points | 16.55% |
+| Team Presentation | 200 points | 16.98% |
 | Midterm Exam | 250 points | 21.22% |
 | Final Exam | 400 points | 33.96% |
-| Organizational citizenship behavior (OCB) score | Bonus | Bonus |
-| **Total** | **1,178 points** | 100.00% |
+| OCB Bonus | Bonus | Bonus |
+| **Total** | **1,178 points** | **100%** |
+
+**Details:**
+- **Week 1 Activity**: Syllabus Quiz (5pts) + Canvas profile (5pts) + Google Form (1pt) + Team meeting quiz (2pts)
+- **Module Review Quiz**: 10 points x 12 = 120 points
+- **Team Meeting Activity**: Agenda (10pts x 13) + Peer eval (5pts x 13) = 195 points - See [Team Meeting Rubric](team-meeting-agenda)
+- **Team Presentation**: Case discussion (140pts) + Peer eval (60pts) = 200 points - See [Guide and Rubric](guide-and-rubric)
 
 ### Grading Components
 
