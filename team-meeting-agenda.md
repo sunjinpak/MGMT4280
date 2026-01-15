@@ -153,6 +153,7 @@ Discuss the case using the IRAC Framework:
 3. [Main learning point 3]
 
 ### Next Meeting
+
 | Item | Details |
 |------|---------|
 | **Date** | [Next meeting date] |

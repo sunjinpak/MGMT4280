@@ -143,6 +143,7 @@ Starting next week, teams will present on employment law topics. Review how to p
 | [Name 5] |          |        |
 
 #### Key Requirements
+
 | Item | Requirement |
 |------|-------------|
 | Video Length | ~25 minutes |
@@ -170,6 +171,7 @@ Starting next week, team meetings will focus on discussing the presenting team's
 - Understand the [IRAC framework](https://www.law.berkeley.edu/wp-content/uploads/2015/04/IRAC-Method.pdf) (Issue, Rule, Application, Conclusion)
 
 #### Discussion Roles (Starting Week 4)
+
 | Role | Responsibility |
 |------|----------------|
 | **Employee Advocate** | Argues from the employee's perspective |
@@ -191,6 +193,7 @@ Starting next week, team meetings will focus on discussing the presenting team's
 ---
 
 ### Action Items
+
 | Task | Responsible | Deadline |
 |------|-------------|----------|
 | Submit team meeting agenda | Note Taker | By the end of the week |
@@ -198,6 +201,7 @@ Starting next week, team meetings will focus on discussing the presenting team's
 | Watch presenting team's video (Module 2) | All members | Before next week's meeting |
 
 ### Next Meeting
+
 | Item | Details |
 |------|---------|
 | **Date** | [Next meeting date] |

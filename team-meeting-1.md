@@ -168,6 +168,7 @@ Discuss team preferences for the team presentation module (Module 2-12).
 ---
 
 ### Action Items
+
 | Task                                                           | Responsible | Deadline               |
 | -------------------------------------------------------------- | ----------- | ---------------------- |
 | Submit team meeting agenda                                     | Note Taker  | By the end of the week |
@@ -175,6 +176,7 @@ Discuss team preferences for the team presentation module (Module 2-12).
 | Complete peer review evaluation                                | All members | By the end of the week |
 
 ### Next Meeting
+
 | Item            | Details                              |
 | --------------- | ------------------------------------ |
 | **Date**        | [Next meeting date]                  |
