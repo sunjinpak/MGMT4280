@@ -114,7 +114,7 @@ def preprocess_markdown(content):
 
     return content
 
-def postprocess_word(doc):
+def postprocess_word(doc, filename=''):
     """Post-process Word document."""
     # Add borders to all tables
     for table in doc.tables:
@@ -125,6 +125,43 @@ def postprocess_word(doc):
         for row in table.rows:
             for cell in row.cells:
                 convert_markers_to_linebreaks_xml(cell)
+
+    # Set column widths for specific tables (Syllabus)
+    if 'syllabus' in filename.lower():
+        for table in doc.tables:
+            first_cell = table.rows[0].cells[0].text.strip().lower()
+
+            # Weekly Schedule table (2 columns: Class, Contents)
+            if len(table.columns) == 2 and 'class' in first_cell:
+                for row in table.rows:
+                    row.cells[0].width = Cm(3)
+                    row.cells[1].width = Cm(14)
+
+            # Grading Criteria table (3 columns: Assessment, Points, %)
+            if len(table.columns) == 3 and 'assessment' in first_cell:
+                for row in table.rows:
+                    row.cells[0].width = Cm(9)
+                    row.cells[1].width = Cm(5)
+                    row.cells[2].width = Cm(2)
+
+            # Course Structure table (3 columns: Stage, Module, Week)
+            if len(table.columns) == 3 and 'stage' in first_cell:
+                for row in table.rows:
+                    row.cells[0].width = Cm(4)
+                    row.cells[1].width = Cm(9)
+                    row.cells[2].width = Cm(2)
+
+            # Grading Scale table (2 columns: Grade, Range)
+            if len(table.columns) == 2 and 'grade' in first_cell:
+                for row in table.rows:
+                    row.cells[0].width = Cm(3)
+                    row.cells[1].width = Cm(5)
+
+            # Important Dates table (2 columns: Date, Event)
+            if len(table.columns) == 2 and 'date' in first_cell:
+                for row in table.rows:
+                    row.cells[0].width = Cm(4)
+                    row.cells[1].width = Cm(12)
 
     # Make all hyperlinks blue and underlined
     body = doc._body._body
@@ -174,7 +211,7 @@ def convert_md_to_word(md_file, docx_file):
 
     # Post-process
     doc = Document(docx_file)
-    postprocess_word(doc)
+    postprocess_word(doc, docx_file)
     doc.save(docx_file)
 
     # Cleanup
