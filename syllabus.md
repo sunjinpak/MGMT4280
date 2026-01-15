@@ -1,0 +1,521 @@
+---
+layout: default
+title: MGMT 4280 Syllabus
+---
+
+[Home](index) | [Team Meeting Agenda](team-meeting-agenda) | [Guide and Rubric](guide-and-rubric)
+
+**[Download Word Document](Syllabus.docx)**
+
+# MGMT 4280 Current Topics in Human Resource Management
+
+## Course Information
+- **Course Number**: MGMT 4280
+- **Course Title**: Current Topics in Human Resource Management
+- **Section**:
+- **Units**: 3
+- **Term**: Spring 2026 (1/20/2026 - 5/18/2026)
+- **Format**: Online (Asynchronous)
+- **Enrollment**: 53 students
+- **Prerequisites**: MGMT 3000 and MGMT 3100
+
+*This syllabus is subject to change based on the needs of the class.*
+
+## Instructor Information
+- **Instructor**: Sunjin Pak, Assistant Professor of Management
+- **Office**: BDC A137
+- **Office Hours**: Tuesday/Thursday 6:00-7:00pm & 8:15-9:15pm, Friday 12:00-1:00pm (in-person); Zoom by appointment
+- **Email**: spak2@csub.edu
+- **Homepage**: www.sunjinpak.com
+- **LinkedIn**: www.linkedin.com/in/sunjinpak
+
+---
+
+## Table of Contents
+1. Course Description
+2. BSBA Program Learning Objectives
+3. Course Learning Objectives
+4. Required Text and Materials
+5. Instructional Strategies & Classroom Policies
+6. Course Assessment
+7. Course Schedule
+8. CSUB Student Chapter - SHRM
+9. University Policies
+
+---
+
+## 1. Course Description
+This course is about leading-edge topics in Human Resource Management. As the organization's requirements change, so must the skill set of the HR professional supporting that organization. Topics will include California labor laws, change management methodologies, benchmarking HR processes, reengineering human resources policies and procedures, and consultant roles. This course will rely primarily on research, case studies, and current labor law digest to develop these skills.
+
+## 2. BSBA Program Learning Objectives
+In the current class, we will concentrate on PLOs 1, 3, and 4 among the program learning objectives (PLO) for the BS in Business Administration:
+- PLO 1: Communication Skills
+- PLO 3: Functional Knowledge
+- PLO 4: Ethical Reasoning
+
+## 3. Course Learning Objectives
+Upon completion of this course, students will be able to:
+- Understand and discuss California specific employment and labor laws.
+- Analyze and discuss leading HR hot topics and court decisions.
+- Prepare for and facilitate group discussions.
+- Research an HR hot topic and write a research report.
+- Analyze and use critical thinking to evaluate application of Labor Code.
+- Understand and utilize CA State resources (Labor Code, DFEH, DIR, DLSE, etc.)
+
+### Course Structure: The Employee Lifecycle Approach
+This course is organized around the **Employee Lifecycle**, following the natural progression of an employee's journey through an organization. The modules are sequenced to mirror the stages an employee experiences, from hiring to separation. This structure helps you understand employment law not as isolated topics, but as interconnected legal issues that arise at different stages of the employment relationship.
+
+| Stage                       | Module                                           | Week    |
+| --------------------------- | ------------------------------------------------ | ------- |
+| **Hiring**                  | Module 1: Hiring Process & Selection             | Week 3  |
+| **Classification**          | Module 2: Worker Classification                  | Week 4  |
+| **Employment Relationship** | Module 3: Employment at Will                     | Week 5  |
+| **Compensation**            | Module 4: Wage & Hour                            | Week 6  |
+|                             | Module 5: Overtime                               | Week 7  |
+|                             | Module 6: Meal & Rest Breaks                     | Week 9  |
+| **Working Conditions**      | Module 7: Privacy Rights                         | Week 10 |
+| **Workplace Issues**        | Module 8: Employment Discrimination              | Week 11 |
+|                             | Module 9: Harassment                             | Week 12 |
+|                             | Module 10: Disability Accommodation              | Week 13 |
+|                             | Module 11: Leaves of Absence                     | Week 14 |
+| **Separation**              | Module 12: Investigations, Termination & Retaliation | Week 15 |
+
+By comparing **Federal Law** and **California Law** at each stage, you will gain a comprehensive understanding of how California's employee-friendly regulations often exceed federal requirements. To facilitate this comparison, this course uses two textbooks: one focused on federal employment law and one on California employment law.
+
+## 4. Required Text and Materials
+
+### 4.1 Textbook (Primary)
+**California Employment Law 2025**
+- Author: James J. McDonald, Jr., J.D., SHRM-SCP
+- Publisher: SHRM (Society for Human Resource Management)
+- Focus: California-specific employment and labor laws
+- Amazon: https://amzn.to/3Z8fQwo
+
+### 4.2 Textbook (Supplementary)
+**Employment Law: New Challenges in the Business Environment** (6th Edition)
+- Author: John Jude Moran, J.D., MBA (Wagner College)
+- Publisher: Pearson
+- ISBN: 978-0-13-307522-9
+- Amazon: https://amzn.to/49xmOjo
+
+### 4.3 MS Office 365
+This course will require using Microsoft Word, Excel, PowerPoint, and the Business Analytics Excel add-in.
+
+**Frequently Asked Questions**
+- Q1: I have problems installing MS Office 365
+- A1: Contact ITS at (661) 654-HELP
+
+### 4.4 Google Sheets and Google Docs
+Install "Google Sheets" and "Google Docs" on your phone.
+
+### 4.5 ChatGPT Edu
+You will need access to ChatGPT Edu to complete various tasks in this course. CSUB students have free access to ChatGPT Edu. Please refer to campus instructions or contact the CSUB IT Help Desk if you need assistance accessing your free subscription (Due: The first day of the semester).
+
+[OpenAI ChatGPT Edu - California State University, Bakersfield](https://www.csub.edu/ai/chatgpt/index.shtml)
+
+---
+
+## 5. Instructional Strategies & Classroom Policies
+
+### Office Hours, Appointments, and Email
+My in-person office hours are Tuesday/Thursday 6:00-7:00pm & 8:15-9:15pm, and Friday 12:00-1:00pm. During these times, you are welcome to visit my office (BDC A137) without an appointment. Zoom meetings are available by appointment; please email me with your preferred time and I will do my best to accommodate your schedule. Use email to ask questions, clarify assignments, or request additional support. Always begin your email subject line with "[MGMT 4280]". I will respond within 24 hours if you follow this format.
+
+> **FAQ: How do I write a professional email?**
+> Before sending an email to your professor, use [ChatGPT Edu](https://www.csub.edu/ai/chatgpt/index.shtml) (free with your CSUB account) to review it with the following prompt:
+> ```
+> Review my email to my professor. Check for:
+> 1. Professional tone and appropriate greeting/closing
+> 2. Clear and concise message
+> 3. Grammar and spelling errors
+> 4. Subject line includes [MGMT 4280]
+>
+> Suggest improvements if needed.
+>
+> ---
+> [Paste your email here]
+> ```
+
+### Class Updates
+I will use the current syllabus or email to post important notes and due dates. Updates are also synced to Canvas. Please check your email and Canvas daily to ensure you have the most up-to-date information.
+
+### Late Assignment Policy
+Late assignment submissions will incur a 10% deduction per 24-hour period. Extensions may be granted at the instructor's discretion for documented emergencies.
+
+### Technical Problems on Your End
+You are responsible for keeping your computer up-to-date and fully functional. This includes regular maintenance, software updates, and ensuring your device is capable of handling online coursework and assessments without disruption. No extensions will be granted for computer or internet failures. Be proactive and plan ahead.
+
+To avoid technical problems during assignments or exams:
+- **Test your device in advance.** Make sure your computer, browser, and any required applications (e.g., Zoom, Google Docs, Canvas) work properly before starting an assignment or test.
+- **Have a backup plan.** If your personal computer does not function properly, you are expected to use a reliable alternative-such as a **computer at the campus library**-to complete your coursework on time.
+- **Ensure adequate storage.** Keep at least **10% of your computer's storage free**. During an exam or assignment, you may need to download files or temporarily store data. A lack of available space can cause your system to freeze or crash unexpectedly.
+- **Maintain a stable internet connection.** Wi-Fi interruptions or disconnections will not be accepted as a valid excuse for late submissions. If your home internet is unreliable, please use the university library. Plan to complete your work well before the deadline to minimize risk.
+
+### Policy on Final Grades
+If you have any concerns about grading during the semester or if you feel that something is unfair, discuss it with me immediately. No discussion will be held to find a way to bump you from a "C" to a "B" or from a "B" to an "A." There will be no negotiation or changes to grades once the final exam period has begun. This includes requests for extra credit, regrading, or any form of individual consideration based on personal circumstances. Please make sure to monitor your progress throughout the semester and address any concerns before the final exam period starts.
+
+### Subject-to-Change / Notification Process
+I will work hard to stay on that schedule. However, life is unpredictable, so a contingency plan is sometimes necessary.
+
+---
+
+## 6. Course Assessment
+
+### Grading Criteria
+| Assessment | Points | % |
+| --- | --- | --- |
+| Week 1 Activity (Syllabus Quiz 5pts, Canvas profile 5pts, Google Form 1pt, Team meeting quiz 2pts) | **Total 13 points** | 1.10% |
+| Module Review Quiz (x12 times) | 10 points x 12 = **120 points** | 10.19% |
+| Team Meeting Activity (x13 times) - [Team Meeting Rubric](team-meeting-agenda) | 10 pts x 13 = 130 pts + 5 pts x 13 = 65 pts = **Total 195 points** | 16.55% |
+| Team Presentation - [Guide and Rubric for Online Presenters](guide-and-rubric) | 140 + 60 = **Total 200 points** | 16.98% |
+| Midterm Exam | 250 points | 21.22% |
+| Final Exam | 400 points | 33.96% |
+| Organizational citizenship behavior (OCB) score | Bonus | Bonus |
+| **Total** | **1,178 points** | 100.00% |
+
+### Grading Components
+
+#### Week 1 Activities
+- **Syllabus Knowledge Quiz**: Test your understanding of the course syllabus
+- **Canvas Profile**: Upload your photo and biography
+- **Google Form**: Submit your photo and preferred name
+- **Team Meeting Rubric Quiz**: Test your understanding of the team meeting rubric
+
+#### Module Review Quiz
+Based on the lecture videos and textbook readings. Quizzes will test your understanding of the chapter content.
+
+#### Team Presentation
+Each of the 11 teams will present once during the semester. Presentation requirements:
+- **Explain the Law**: Present the key concepts of the week's employment law topic
+- **Compare CA vs. Federal Law**: Highlight the differences between California and federal regulations
+- **Personal Work Experience**: Share examples from your own work experience that relate to the topic
+- **YouTube Video**: Find and share a relevant YouTube video link (do not play during presentation)
+- **Case Summary & Discussion Questions**: Summarize a relevant legal case and create discussion questions for the class
+- The discussion questions will be used for that week's team meeting activity
+
+#### Team Meetings (Weekly via Zoom)
+Teams will meet weekly via Zoom throughout the semester (except during midterm and final exam weeks).
+- **Recording Required**: All team meetings must be recorded via Zoom
+- **Transcription**: Use the Zoom recording to generate a transcript
+- **Meeting Notes**: The Notetaker will use the transcript to create meeting notes using the provided prompt
+- **Peer Evaluation**: All team members must complete the peer review evaluation after each meeting
+
+**Meeting Note Prompt for Students:**
+> Using the attached Zoom meeting transcript, create a structured meeting note that includes:
+> 1. Meeting Date and Attendees
+> 2. Key Discussion Points
+> 3. Decisions Made
+> 4. Action Items (with assigned person and deadline)
+> 5. Questions for Follow-up
+
+#### Exams (Midterm, Final)
+Exams will be based on the lecture videos, textbook readings, and class activities.
+
+#### Organization Citizenship Behavior (OCB) Score
+
+Organizational Citizenship Behavior (OCB) refers to voluntary actions that go beyond formal job requirements but contribute to the overall success of an organization. Research shows that teams with high OCB achieve higher productivity, better collaboration, and stronger performance. In this class, you can earn bonus points by providing constructive feedback on course materials, asking thoughtful questions, helping classmates, or going above and beyond in team activities. **If a team member has helped you in any way, please email the instructor to let them know.** Your recognition helps ensure that helpful behaviors are acknowledged and rewarded.
+
+### Grading Scale
+| Grade | Range |
+|-------|-------|
+| A | 100% to 94.0% |
+| A- | < 94.0% to 90.0% |
+| B+ | < 90.0% to 87.0% |
+| B | < 87.0% to 84.0% |
+| B- | < 84.0% to 80.0% |
+| C+ | < 80.0% to 77.0% |
+| C | < 77.0% to 74.0% |
+| C- | < 74.0% to 70.0% |
+| D+ | < 70.0% to 67.0% |
+| D | < 67.0% to 64.0% |
+| D- | < 64.0% to 60.0% |
+| F | < 60.0% to 0% |
+
+### Statute of Limitations
+
+Grades will be accessible by password only on MY CSUB (https://my.csub.edu/). For your security, grades will not be provided by phone or email. It is important that each student frequently checks their class grades and immediately notifies the instructor of any discrepancies discovered. After grades are posted, you will have three days to notify the instructor about grading issues or errors. After this period, no corrections or recalculations will be made.
+
+---
+
+## 7. Course Schedule
+
+### Important Dates
+| Date            | Event                                                 |
+| --------------- | ----------------------------------------------------- |
+| Jan 19 (Mon)    | HOLIDAY - Martin Luther King, Jr. Day - Campus Closed |
+| Jan 20 (Tue)    | First Day of Classes                                  |
+| Mar 30 - Apr 5  | Spring Semester Break (No Classes)                    |
+| Mar 31 (Tue)    | HOLIDAY - Cesar Chavez Day - Campus Closed            |
+| Apr 20 - Apr 24 | SOCI Week (Online and Paper SOCIs)                    |
+| May 11 (Mon)    | Last Day of Classes                                   |
+| May 12 - May 18 | Examination Period                                    |
+| May 19 - May 20 | Evaluation Days                                       |
+| May 21 (Thu)    | Grades Due                                            |
+
+### Weekly Schedule (Mon - Sun)
+
+#### Week 1 (1/19 ~ 1/25)
+**Read the Syllabus**
+- Read the syllabus carefully. **(Due: By the end of the week)**
+- If you spot errors or have questions about the course materials, please email me. You can earn 1 OCB (Organizational Citizenship Behavior) bonus point for providing constructive feedback or thoughtful questions via email.
+- Syllabus Knowledge Quiz **(Due: By the end of the week)**
+
+**Updating Canvas Profile Photo and Biography**
+- Upload your photo and biography in Canvas [Updating Your Canvas Profile Photo and Biography](updating-canvas-profile)
+
+**Preparing for Team Meetings**
+- Team meeting rubric knowledge quiz **(Due: By the end of the week)**
+
+**Frequently Asked Questions**
+- Q1. How many team members are allowed for our team projects?
+- A1. There will be four to five students assigned to a team.
+
+- Review the [team assignment](https://docs.google.com/spreadsheets/d/1RReQqKICDKQinxK5MsUPZfKTdoXriUjxVFsybCBApaQ/edit?gid=775776418#gid=775776418) to identify your team members and ascertain your role for the initial meeting. **(Due: By the end of the week)**
+- Read the Rubric for a team meeting and take the quiz [Rubric](https://docs.google.com/document/d/1TAdNW-HoFhD6kt8INq-p42SEFgIBOI89cXI9qQuosmw/edit#heading=h.5y1e7jhfnobr) **(Due: By the end of the week)**
+- Notetaker only: Contact your team members to propose a meeting time and create the Zoom link for the group. If you reach out but do not receive a reply from a team member, please inform your instructor about who has not responded. [Sample email instruction](https://docs.google.com/document/d/1Qg-o7h_zT2IMHanKoNsk2pvB2XXwb5G3nHvFOcVU674/edit?usp=sharing) **(Due: 1/23 Thu 11:59 pm)**
+- If you do not receive an email from your assigned notetaker proposing a meeting time by **1/25 (Sat) 11:59 pm**, you should step in as the notetaker. Send an email to your teammates proposing a meeting time and CC your instructor. By doing this, you will receive an OCB bonus point.
+
+#### Week 2 (1/26 ~ 2/1)
+**Team Meeting 1**: [Icebreaker & Team Setup](team-meeting-1)
+- Notetaker: Download [Team Meeting 1](team-meeting-1) and start Zoom recording
+- All members: Update your Zoom name to "First Name Last Name" before the meeting
+- Notetakers only: Submit team meeting agenda **(Due: By the end of the week)**
+- Notetakers only: Share transcript with team & submit email screenshot **(Due: By the end of the week)**
+- [Peer review evaluation](https://sunjinpak.github.io/MGMT4280-peer-review/) **(Due: By the end of the week)**
+- After you complete the survey, you will receive a completion code. Send the completion code to your notetaker.
+
+#### Week 3 (2/2 ~ 2/8)
+**Module 1: Hiring Process & Selection** (CA: Ch 6 / Federal: Ch 2, 3)
+- Watch Video A: Job Descriptions & Selection [Link] **(Due: By the end of the week)**
+- Watch Video B: Background Checks & Social Media [Link] **(Due: By the end of the week)**
+- Module Review Quiz **(Due: By the end of the week)**
+
+**Team Meeting 2**: [Meeting Notes with AI & Preparation](team-meeting-2)
+- Notetaker: Download [Team Meeting 2](team-meeting-2) and use it to guide the discussion
+- Notetakers only: submit team meeting agenda **(Due: By the end of the week)**
+- [Peer review evaluation](https://sunjinpak.github.io/MGMT4280-peer-review/) **(Due: By the end of the week)**
+
+#### Week 4 (2/9 ~ 2/15)
+**Module 2: Worker Classification** (CA: Ch 5 / Federal: Ch 1)
+- Watch Video A: The Employment Relationship [Link] **(Due: By the end of the week)**
+- Watch Video B: Worker Classification Tests [Link] **(Due: By the end of the week)**
+- Module Review Quiz **(Due: By the end of the week)**
+
+**Team Presentation** (Team TBD)
+- Case from [*Employment Law*](https://amzn.to/49xmOjo) Ch 1
+- Presenters [Instructions](guide-and-rubric):
+  1. Create slide and record 25-min YouTube presentation **(Due: 2/8 Sun 11:59pm)**
+  2. Post 3 discussion questions and YouTube link on Canvas **(Due: 2/8 Sun 11:59pm)**
+  3. Peer review evaluation [Link] **(Due: 2/8 Sun 11:59pm)**
+
+**Team Meeting 3**: [Worker Classification](team-meeting-agenda)
+- Notetaker: Download [Team Meeting Agenda](team-meeting-agenda) and use it to guide the discussion
+- Discuss using the 3 discussion questions from the presenter's video
+- Notetakers only: submit team meeting agenda **(Due: By the end of the week)**
+- [Peer review evaluation](https://sunjinpak.github.io/MGMT4280-peer-review/) **(Due: By the end of the week)**
+
+#### Week 5 (2/16 ~ 2/22)
+**Module 3: Employment at Will** (CA: Ch 2 / Federal: Ch 1, 5)
+- Watch Video A: At-Will Doctrine & Exceptions [Link] **(Due: By the end of the week)**
+- Watch Video B: Wrongful Termination [Link] **(Due: By the end of the week)**
+- Module Review Quiz **(Due: By the end of the week)**
+
+**Team Presentation** (Team TBD)
+- Case from [*Employment Law*](https://amzn.to/49xmOjo) Ch 1 or 5
+- Presenters [Instructions](guide-and-rubric): Due 2/15 Sun 11:59pm
+
+**Team Meeting 4**: [Employment at Will](team-meeting-agenda)
+
+#### Week 6 (2/23 ~ 3/1)
+**Module 4: Wage & Hour** (CA: Ch 7 / Federal: Ch 19)
+- Watch Video A: Minimum Wage & Tip Credit [Link] **(Due: By the end of the week)**
+- Watch Video B: Pay Statements & Final Paychecks [Link] **(Due: By the end of the week)**
+- Module Review Quiz **(Due: By the end of the week)**
+
+**Team Presentation** (Team TBD) - Due 2/22 Sun 11:59pm
+
+**Team Meeting 5**: [Wage & Hour](team-meeting-agenda)
+
+#### Week 7 (3/2 ~ 3/8)
+**Module 5: Overtime** (CA: Ch 8 / Federal: Ch 19)
+- Watch Video A: Daily vs Weekly Overtime [Link] **(Due: By the end of the week)**
+- Watch Video B: Exempt vs Non-Exempt [Link] **(Due: By the end of the week)**
+- Module Review Quiz **(Due: By the end of the week)**
+
+**Team Presentation** (Team TBD) - Due 3/1 Sun 11:59pm
+
+**Team Meeting 6**: [Overtime](team-meeting-agenda)
+
+#### Week 8 (3/9 ~ 3/15)
+**Midterm Exam** (50 questions / 40 minutes)
+- The exam will be available on Canvas between 3/9, 12:01 AM and 3/15, 11:59 PM.
+- Covers Module 1-5 (Week 3-7)
+- **Question Sources**:
+  - Module Review Quiz (Module 1-5)
+  - Team Presentations & Discussion Questions (Module 2-5)
+- Once you start your exam, you have limited time to complete it.
+- The order of questions will be different for students.
+
+#### Week 9 (3/16 ~ 3/22)
+**Module 6: Meal & Rest Breaks** (CA: Ch 9 / Federal: Ch 19)
+- Watch Video A: Meal Periods & Waivers [Link] **(Due: By the end of the week)**
+- Watch Video B: Rest Breaks, Heat & Seating [Link] **(Due: By the end of the week)**
+- Module Review Quiz **(Due: By the end of the week)**
+
+**Team Presentation** (Team TBD) - Due 3/15 Sun 11:59pm
+
+**Team Meeting 7**: [Meal & Rest Breaks](team-meeting-agenda)
+
+#### Week 10 (3/23 ~ 3/29)
+**Module 7: Privacy Rights** (CA: Ch 10 / Federal: Ch 4)
+- Watch Video A: Workplace Monitoring & Searches [Link] **(Due: By the end of the week)**
+- Watch Video B: Drug Testing & Data Rights [Link] **(Due: By the end of the week)**
+- Module Review Quiz **(Due: By the end of the week)**
+
+**Team Presentation** (Team TBD) - Due 3/22 Sun 11:59pm
+
+**Team Meeting 8**: [Privacy Rights](team-meeting-agenda)
+
+#### Spring Break (3/30 ~ 4/5)
+**No Classes**
+
+#### Week 11 (4/6 ~ 4/12)
+**Module 8: Employment Discrimination** (CA: Ch 12 / Federal: Ch 7, 9, 10, 11, 13)
+- Watch Video A: Disparate Treatment & Protected Classes [Link] **(Due: By the end of the week)**
+- Watch Video B: Disparate Impact & Defenses [Link] **(Due: By the end of the week)**
+- Module Review Quiz **(Due: By the end of the week)**
+
+**Team Presentation** (Team TBD) - Due 4/5 Sun 11:59pm
+
+**Team Meeting 9**: [Employment Discrimination](team-meeting-agenda)
+
+#### Week 12 (4/13 ~ 4/19)
+**Module 9: Harassment** (CA: Ch 13 / Federal: Ch 11)
+- Watch Video A: Types of Harassment [Link] **(Due: By the end of the week)**
+- Watch Video B: Employer Liability & Prevention [Link] **(Due: By the end of the week)**
+- Module Review Quiz **(Due: By the end of the week)**
+
+**Team Presentation** (Team TBD) - Due 4/12 Sun 11:59pm
+
+**Team Meeting 10**: [Harassment](team-meeting-agenda)
+
+#### Week 13 (4/20 ~ 4/26)
+**Module 10: Disability Accommodation** (CA: Ch 14 / Federal: Ch 17)
+- Watch Video A: What Qualifies as a Disability? [Link] **(Due: By the end of the week)**
+- Watch Video B: Reasonable Accommodations [Link] **(Due: By the end of the week)**
+- Module Review Quiz **(Due: By the end of the week)**
+- (SOCI Week 4/20-4/24)
+
+**Team Presentation** (Team TBD) - Due 4/19 Sun 11:59pm
+
+**Team Meeting 11**: [Disability Accommodation](team-meeting-agenda)
+
+#### Week 14 (4/27 ~ 5/3)
+**Module 11: Leaves of Absence** (CA: Ch 15 / Federal: Ch 12)
+- Watch Video A: FMLA & CFRA Basics [Link] **(Due: By the end of the week)**
+- Watch Video B: Pregnancy, Sick Leave & Stacking [Link] **(Due: By the end of the week)**
+- Module Review Quiz **(Due: By the end of the week)**
+
+**Team Presentation** (Team TBD) - Due 4/26 Sun 11:59pm
+
+**Team Meeting 12**: [Leaves of Absence](team-meeting-agenda)
+
+#### Week 15 (5/4 ~ 5/10)
+**Module 12: Investigations, Termination & Retaliation** (CA: Ch 16, 17, 18 / Federal: Ch 5)
+- Watch Video A: Documentation & Defensible Terminations [Link] **(Due: By the end of the week)**
+- Watch Video B: Severance Agreements & WARN Act [Link] **(Due: By the end of the week)**
+- Module Review Quiz **(Due: By the end of the week)**
+
+**Team Presentation** (Team TBD) - Due 5/3 Sun 11:59pm
+
+**Team Meeting 13**: [Termination & Retaliation](team-meeting-agenda)
+
+#### Examination Period (5/12 Tue ~ 5/18 Mon)
+**Final Exam** (50 questions / 40 minutes)
+- The exam will be available on Canvas between 5/12, 12:01 AM and 5/18, 11:59 PM.
+- Covers Module 1-12 (Week 3-15)
+- **Question Sources**:
+  - Module Review Quiz (Module 1-12)
+  - Team Presentations & Discussion Questions (Module 2-12)
+- Once you start your exam, you have limited time to complete it.
+- The order of questions will be different for students.
+
+#### 5/21 (Thu)
+Final Grades Due by 11:59 pm
+- You can find your final grade in your [Student Center](https://my.csub.edu/).
+
+---
+
+## 8. CSUB Student Chapter - Society for Human Resource Management (SHRM)
+
+All students are invited to join the CSUB student chapter of SHRM. The purpose of this organization is to promote human resource management knowledge on campus, to organize students with similar interests, and to interact with the Kern County SHRM Chapter. SHRM student chapter activities include:
+
+- Participate in/organize CalSHRM annual case competitions.
+- Organize monthly professional guest speakers
+- Organize analytics workshops.
+- Organize workplace investigations workshops.
+- Participate/volunteer in annual Kern County SHRM Symposium
+- Attend the annual CalSRHM Legislative Conference.
+- Volunteer with the Center for Career Education and Community Engagement.
+- Organize fundraising initiatives for the purpose of the student chapter.
+
+Please email at spak2@csub.edu if you are interested in knowing more about the student chapter.
+
+---
+
+## 9. University Policies
+
+### Instructor Initiated Drop Guidelines for Both Face-to-Face & Online Classes
+
+Students on official university business who cannot attend the first day of class due to that business must notify the instructor of record prior to the first day of class. The student must provide proof of the official university business from the sponsoring program or office to the instructor of record.
+
+Students who are administratively dropped under this policy will be sent an email by the instructor informing them of the drop. Students should not presume they will be dropped by their instructor for non-attendance under this policy. Students who have registered for a class, but never attended, should verify whether or not they are officially enrolled via their "myCSUB" account. It is ultimately the student's responsibility to withdraw officially from the class. It is the responsibility of all wait-listed students (face-to-face and online) to communicate with the instructor concerning readings and assignments that must be completed in the first week of class.
+
+### Inclusiveness and Safety at CSUB
+
+**Title IX**
+CSU Bakersfield does not discriminate on the basis of gender, which includes sex and gender identity or gender expression, or sexual orientation in its education programs or activities. Title IX of the Education Amendments of 1972, and certain other federal and state laws, prohibit discrimination on the basis of gender or sexual orientation in employment, as well as in all education programs and activities operated by the University (both on and off campus), including admissions. The protection against discrimination on the basis of gender or sexual orientation includes sexual harassment, sexual misconduct, sexual exploitation, dating and domestic violence, and stalking. Information regarding the reporting of sexual violence and the resources that are available to victims of sexual violence is set forth at: https://www.csub.edu/equity-inclusion-compliance/title-ix
+
+**Accommodations for Students with Disabilities**
+If you have a disability, which may require consideration by the instructor, you should contact the Services for Students with Disabilities (SSD) at 661.654.3360. You must have an accommodations letter from the SSD office documenting that you have a disability; present the letter. It is not necessary to disclose the nature of your disability. I will make any reasonable accommodation.
+
+**Military Personnel**
+The Higher Education Opportunity Act of 2008 protects post-secondary education students whose education is interrupted by voluntary or involuntary military service, and gives the right to readmission to the educational program. This applies to students who are members of the National Guard or Reserve called to active duty involuntarily or volunteers for an extended period of active duty, students who start an educational program (full or part-time) while on active duty and who then must interrupt the educational program because of a deployment or a Permanent Change of Station (PCS), and students who interrupts his or her education to enlist in a regular component of the armed forces. Such a person is entitled, as a matter of federal law, to resume the educational program later, either during or after the person's active duty service.
+
+In order to comply with this law, if you currently have orders- or receive such orders during the semester- you are obligated to notify me and provide a copy of said orders as soon as possible.
+
+**Correct Pronouns, Names, and Inclusion**
+I fully support people of all gender expressions and gender identities and encourage students to use the name and set of pronouns which best reflect who they are. In this spirit, I welcome and expect all students to also use the correct name and pronouns of their classmates. I will do my best to respect and use the language you use to refer to yourself and will encourage other members of our classroom community to do the same. Please inform me if my documentation reflects a name or set of pronouns different from what you use, and if you have any questions or concerns, please contact me after class, by email, or during office hours.
+
+### Etiquette, Civil Discourse & Student Conduct
+
+Students in this course are always expected to follow the CSUB Student Code of Conduct. If you are not familiar with the code of conduct, you can learn more about it here: www.csub.edu/osrr/_files/CSUB-Student-Conduct-Code.pdf
+
+In addition, this course requires some specific rules for conduct. Net etiquette or "netiquette" is expected of all students who engage in course forums and discussions. "Netiquette" means that you should treat others with dignity and respect during your team interactions. Here are some "netiquette" rules for your course discussions:
+
+- **Stay on topic & avoid personal attacks.** Respect and appreciate that others may have different perspectives than you. Focus on the topic being discussed and never make a personal attack.
+- **Read before you post.** Re-read what you wrote twice before you post it. Is your comment clear, concise and to-the-point?
+- **Pay attention to your tone.** Remember that sarcasm and some other types of humor can be misinterpreted in written form.
+- **Cite your sources.** Cite sources, whether you are quoting directly or paraphrasing.
+
+If you have any concerns about any student conduct during this course, please contact the course instructor.
+
+### Academic Integrity
+
+Certain forms of conduct violate the university's policy of academic integrity and the student conduct code. Academic dishonesty (cheating) is a broad category of actions that use fraud and deception to improve a grade or obtain course credit. Academic dishonesty is not limited to exams alone but arises whenever students attempt to gain an unearned academic advantage. Plagiarism is claiming the published or unpublished work of someone else as your own. This includes handing in someone else's work; turning in copied or purchased compositions; using paragraphs, sentences, phrases, words, or ideas, including paraphrasing, written by another writer; or using data and/or statistics compiled by someone else as your own without giving appropriate credit to the original writer. Plagiarism also includes using your work submitted in another class without permission of your current instructor.
+
+When a faculty member discovers a violation of the university's policy of academic integrity, the faculty member will meet with the student(s) involved and is required to notify the Dean of Students' office and detail the alleged violation, including the name(s) of the student(s) suspected, the class in which the alleged violation occurred, the circumstances of the alleged violation, and the evidence (including witnesses) supporting the allegation. The faculty member will also formally notify the student(s) suspected of violating the university's policy of academic integrity, the department chair for the course involved in the incident, and the appropriate school dean. The Dean of Students or designee will investigate; confer with the faculty member, student(s), and any witnesses identified; and review all evidence submitted by the faculty member and student(s) to impose an administrative sanction, beyond the academic penalty already placed by the faculty member. Students who perform dishonestly in this course may earn zero credit on the assignment/exam or a failing grade in the course, depending on the level of severity of the offense.
+
+Students are expected to uphold the standards of academic integrity. Cheating in any form will not be tolerated and will result in a formal report to the University Dean of Students. You are always expected to follow the student conduct code and uphold the CSUB Guiding Principles while learning on this campus.
+
+### Catalog Statement
+
+The principles of truth and integrity are recognized as fundamental to our campus community. CSUB administrators, faculty, staff, and students are expected to honor and uphold these principles and in so doing protect the integrity of all academic work. A degree at CSUB is a product of our campus's commitment to ethical behavior, academic integrity, and academic excellence. When a violation of academic integrity occurs, it diminishes the value of that degree. Students at CSUB are expected to do all work assigned to them without getting or giving unauthorized assistance. Faculty have the responsibility of planning and supervising academic work so that honest effort is encouraged and positively reinforced.
+
+---
+
+## Related Pages
+- [Guide and Rubric for Online Presenters](guide-and-rubric)
+- [Team Meeting 1: Icebreaker & Team Setup](team-meeting-1)
+- [Team Meeting 2: Meeting Notes with AI](team-meeting-2)
+- [Team Meeting Agenda](team-meeting-agenda) (Used from Team Meeting 3 until the end of the semester)
+- [Updating Your Canvas Profile Photo and Biography](updating-canvas-profile)
