@@ -3,7 +3,7 @@ layout: default
 title: Team Meeting 1
 ---
 
-[Home](index) | [Syllabus](syllabus) | [Team Meeting Agenda](team-meeting-agenda)
+[← Back to Home](index) | [Syllabus](syllabus) | [Team Meeting 2 →](team-meeting-2)
 
 **[Download Word Document](Team-Meeting-1.docx)**
 
@@ -61,7 +61,24 @@ After the meeting ends, you can download the **transcript** from Zoom. The trans
 
 ---
 
+### Meeting Screenshot (Required)
+
+> **Note Taker**: Take a screenshot during the meeting showing all participants in Zoom Gallery View. Paste the screenshot below.
+
+**[Paste your Zoom Gallery View screenshot here]**
+
+**Screenshot Requirements:**
+- Zoom Gallery View showing all attendees
+- Each participant's name displayed as "First Name Last Name"
+- Meeting date/time visible (Zoom header or your device clock)
+
+> **Warning**: Agendas submitted without a meeting screenshot will receive **zero points**. The screenshot verifies that your team conducted an actual online meeting.
+
+---
+
 ### Attendance
+
+> **Check Your Role**: Review the [Student Roster](roster) to find your assigned role (Meeting Facilitator or Note Taker) for Team Meeting 1.
 
 > **Important**: If a team member does not join the online meeting with other team members, they must be marked as **Absent**.
 
@@ -142,7 +159,7 @@ Discuss team preferences for the team presentation module (Module 2-12).
 | 11     | Leaves of Absence                         | Ch 15: Leaves of Absence                            | Ch 12: FMLA                                                    |                 |
 | 12     | Investigations, Termination & Retaliation | Ch 16, 17, 18: Discipline, Termination, Retaliation | Ch 5: Termination                                              |                 |
 
-> **Note**: Discuss with your team and rank each module from 1 (most preferred) to 11 (least preferred). Each number can only be used once. Your team will only present once this semester. Your YouTube video and slide links are due **Sunday 11:59pm before your assigned module week**, so check the syllabus and consider your schedule. For more details, see [Guide and Rubric for Online Presenters](guide-and-rubric).
+> **Note**: Discuss with your team and rank each module from 1 (most preferred) to 11 (least preferred). Each number can only be used once. Your team will only present once this semester. Your YouTube video and slide links are due **Sunday 11:59pm before your assigned module week**, so check the syllabus and consider your schedule. For more details, see [Online Team Presentation Rubric](online-team-presentation-rubric).
 >
 > **Example**: If your team is assigned Module 2 (Worker Classification), your due date is **2/8 (Sun) 11:59pm** since Module 2 is covered in Week 4 (2/9 ~ 2/15).
 >
@@ -213,20 +230,22 @@ Discuss team preferences for the team presentation module (Module 2-12).
 - [ ] Note Taker: Assign all team members as co-hosts
 - [ ] Note Taker: Click AI Companion button
 - [ ] Note Taker: Start recording
+- [ ] Note Taker: Take a screenshot (Gallery View with all participants)
 - [ ] Complete self-introductions
 - [ ] Discuss team setup (schedule, communication)
 - [ ] Discuss module preferences
 - [ ] Complete peer review evaluation and share completion codes
 
 ### After the Meeting
+- [ ] Note Taker: Paste meeting screenshot into agenda document
 - [ ] Note Taker: Download transcript from Zoom
 - [ ] Note Taker: Email transcript to all team members
 - [ ] Note Taker: Screenshot sent email and submit to Canvas
-- [ ] Note Taker: Submit team meeting agenda to Canvas
+- [ ] Note Taker: Submit team meeting agenda (with screenshot) to Canvas
 - [ ] All members: Save transcript file for next week's activity
 
 ---
 
 ## Related Files
 - [Team Meeting Agenda](team-meeting-agenda)
-- [MGMT 4280 Syllabus](syllabus)
+- [Syllabus](syllabus)

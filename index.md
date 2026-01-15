@@ -17,11 +17,28 @@ title: Home
 | Document | Description |
 |----------|-------------|
 | [Syllabus](syllabus) | Course syllabus with schedule, grading criteria, and policies |
-| [Guide and Rubric for Online Presenters](guide-and-rubric) | Complete guide for team presentations including grading rubric |
+| [Student Roster](roster) | Class roster and team assignments |
+
+### Rubrics & Guidelines
+
+| Document | Description |
+|----------|-------------|
+| [Online Team Presentation Rubric](online-team-presentation-rubric) | Instructions and grading criteria for team presentations |
+| [Team Meeting Rubric](team-meeting-rubric) | Instructions and grading criteria for weekly team meetings |
 | [Team Presentation Schedule](team-presentation-schedule) | Module assignments, presentation structure, and timeline |
-| [Team Meeting Agenda](team-meeting-agenda) | Template for weekly team meeting notes and discussions (Week 4+) |
+
+### Team Meeting Agendas
+
+| Document | Description |
+|----------|-------------|
 | [Team Meeting 1](team-meeting-1) | Icebreaker & Team Setup (Week 2) |
 | [Team Meeting 2](team-meeting-2) | Meeting Notes with AI & Preparation (Week 3) |
+| [Team Meeting Agenda](team-meeting-agenda) | Template for weekly team meeting notes and discussions (Week 4+) |
+
+### Other Resources
+
+| Document | Description |
+|----------|-------------|
 | [Updating Your Canvas Profile](updating-canvas-profile) | Instructions for uploading your photo and biography |
 
 ---
@@ -32,6 +49,13 @@ title: Home
 - **Video Format**: YouTube (Unlisted)
 - **Discussion Questions**: 3 per presentation
 - **Team Size**: 4-5 members
+
+---
+
+## External Links
+
+- [Peer Review Evaluation Survey](https://sunjinpak.github.io/MGMT4280-peer-review/) - Complete after each team meeting
+- [Team Assignment Google Sheet](https://docs.google.com/spreadsheets/d/1RReQqKICDKQinxK5MsUPZfKTdoXriUjxVFsybCBApaQ/edit?gid=775776418#gid=775776418) - View your team members and roles
 
 ---
 

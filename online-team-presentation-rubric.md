@@ -1,21 +1,20 @@
 ---
 layout: default
-title: Guide and Rubric for Online Presenters
+title: Online Team Presentation Rubric
 ---
 
+[← Back to Home](index) | [Syllabus](syllabus) | [Team Presentation Schedule](team-presentation-schedule)
 
-[← Back to Home](index) | [Team Presentation Schedule →](team-presentation-schedule)
+**[Download Word Document](Online-Team-Presentation-Rubric.docx)**
 
-**[Download Word Document](Guide-and-Rubric.docx)**
-
-# Guide and Rubric for Online Presenters
+# Online Team Presentation Rubric
 
 ## Table of Contents
 1. [Overview](#overview)
 2. [Create a Slide](#create-a-slide)
-3. [Record the Presentation](#record-the-presentation-and-create-a-video-link)
-4. [Linking Materials](#linking-materials-to-your-syllabus)
-5. [Grading Rubric](#grading-rubric-total-100-points)
+3. [Record the Presentation and Create a Video Link](#record-the-presentation-and-create-a-video-link)
+4. [Linking Materials to Your Syllabus](#linking-materials-to-your-syllabus)
+5. [Grading Rubric](#grading-rubric)
 
 ---
 
@@ -29,7 +28,6 @@ Teams are required to:
 - Create a YouTube link for their presentation video
 - Develop three discussion questions
 - Post them along with the video link on the Canvas discussion board
-- After posting, each team member must respond to at least **five comments**
 
 **Related**: [Team Presentation Schedule](team-presentation-schedule)
 
@@ -230,60 +228,61 @@ Please format the title as: [MGMT 4280] Module <number>: <title> - Team <#>
 
 ---
 
-## Grading Rubric (Total: 100 points)
+## Grading Rubric (Total: 140 points + 60 points Peer Evaluation = 200 points)
 
 | Category                             | Component                                                   | Points |
 | ------------------------------------ | ----------------------------------------------------------- | ------ |
-| **1. Introduction (10 pts)**         | Team members introduce themselves effectively               | 3      |
-|                                      | Includes relevant background (major, experience, etc.)      | 2      |
-|                                      | Clearly states what the presentation will cover             | 3      |
-|                                      | Sets appropriate expectations for the audience              | 2      |
-| **2. YouTube Video (10 pts)**        | Selects relevant and engaging video (not lecture-type)      | 3      |
-|                                      | Provides screenshot and URL in slides                       | 2      |
-|                                      | Clearly explains why the video was selected                 | 3      |
-|                                      | Connects video to the case or laws being discussed          | 2      |
-| **3. Module Summary (40 pts)**       |                                                             |        |
-| *Case Selection & Introduction*      | Selects appropriate case from textbook                      | 3      |
-|                                      | Explains why the team selected this case                    | 4      |
-|                                      | Provides clear brief overview of the situation              | 3      |
-| *Law Summary*                        | Summarizes relevant laws from both textbooks                | 5      |
-|                                      | Explains differences between CA and Federal law             | 5      |
-|                                      | Covers only content directly linked to the case             | 5      |
-| *Case Analysis (IRAC)*               | Identifies the legal issue clearly                          | 4      |
-|                                      | States the applicable rule/law                              | 4      |
-|                                      | Applies the rule to the facts effectively                   | 4      |
-|                                      | Provides clear conclusion                                   | 3      |
-| **4. Discussion Questions (10 pts)** | Creates 3 thought-provoking questions                       | 4      |
-|                                      | Questions encourage debate between perspectives             | 3      |
-|                                      | Briefly explains importance of each question                | 2      |
-|                                      | Connects questions to module content                        | 1      |
-| **5. Presentation Skills (15 pts)**  | Speaks clearly and at an appropriate pace                   | 3      |
-|                                      | Camera on and maintains eye contact with camera             | 4      |
-|                                      | Avoids reading directly from slides or notes                | 3      |
-|                                      | Creates clear and effective presentation slides             | 3      |
-|                                      | Uses visuals to enhance understanding                       | 2      |
-| **6. Technical Execution (10 pts)**  | Successfully records and uploads to YouTube                 | 2      |
-|                                      | Proper settings (screen sharing, audio, unlisted)           | 2      |
-|                                      | Correct title and description format                        | 1      |
-|                                      | Correctly links video to syllabus                           | 2.5    |
-|                                      | Correctly links slides to syllabus                          | 2.5    |
-| **7. Professionalism (5 pts)**       | Adheres to 25-minute time limit                             | 2      |
-|                                      | Follows all assignment guidelines                           | 2      |
+| **1. Introduction (14 pts)**         | Team members introduce themselves effectively               | 4      |
+|                                      | Includes relevant background (major, experience, etc.)      | 3      |
+|                                      | Clearly states what the presentation will cover             | 4      |
+|                                      | Sets appropriate expectations for the audience              | 3      |
+| **2. YouTube Video (14 pts)**        | Selects relevant and engaging video (not lecture-type)      | 4      |
+|                                      | Provides screenshot and URL in slides                       | 3      |
+|                                      | Clearly explains why the video was selected                 | 4      |
+|                                      | Connects video to the case or laws being discussed          | 3      |
+| **3. Module Summary (56 pts)**       |                                                             |        |
+| *Case Selection & Introduction*      | Selects appropriate case from textbook                      | 4      |
+|                                      | Explains why the team selected this case                    | 6      |
+|                                      | Provides clear brief overview of the situation              | 4      |
+| *Law Summary*                        | Summarizes relevant laws from both textbooks                | 7      |
+|                                      | Explains differences between CA and Federal law             | 7      |
+|                                      | Covers only content directly linked to the case             | 7      |
+| *Case Analysis (IRAC)*               | Identifies the legal issue clearly                          | 6      |
+|                                      | States the applicable rule/law                              | 5      |
+|                                      | Applies the rule to the facts effectively                   | 6      |
+|                                      | Provides clear conclusion                                   | 4      |
+| **4. Discussion Questions (14 pts)** | Creates 3 thought-provoking questions                       | 5      |
+|                                      | Questions encourage debate between perspectives             | 4      |
+|                                      | Briefly explains importance of each question                | 3      |
+|                                      | Connects questions to module content                        | 2      |
+| **5. Presentation Skills (21 pts)**  | Speaks clearly and at an appropriate pace                   | 4      |
+|                                      | Camera on and maintains eye contact with camera             | 6      |
+|                                      | Avoids reading directly from slides or notes                | 4      |
+|                                      | Creates clear and effective presentation slides             | 4      |
+|                                      | Uses visuals to enhance understanding                       | 3      |
+| **6. Technical Execution (14 pts)**  | Successfully records and uploads to YouTube                 | 3      |
+|                                      | Proper settings (screen sharing, audio, unlisted)           | 3      |
+|                                      | Correct title and description format                        | 2      |
+|                                      | Correctly links video to syllabus                           | 3      |
+|                                      | Correctly links slides to syllabus                          | 3      |
+| **7. Professionalism (7 pts)**       | Adheres to 25-minute time limit                             | 3      |
+|                                      | Follows all assignment guidelines                           | 3      |
 |                                      | Includes peer review completion codes in slides             | 1      |
-| **Bonus (+1 pt)**                    | Shares personal/family/friend experience related to the law | +1     |
+| **Peer Evaluation (60 pts)**         | Completed by all team members after presentation            | 60     |
+| **Bonus (+2 pts)**                   | Shares personal/family/friend experience related to the law | +2     |
 
 ### Grading Scale
 
 | Grade | Points |
 |-------|--------|
-| A (Excellent) | 90-100 |
-| B (Good) | 80-89 |
-| C (Satisfactory) | 70-79 |
-| D (Needs Improvement) | 60-69 |
-| F (Unsatisfactory) | Below 60 |
+| A (Excellent) | 180-200 |
+| B (Good) | 160-179 |
+| C (Satisfactory) | 140-159 |
+| D (Needs Improvement) | 120-139 |
+| F (Unsatisfactory) | Below 120 |
 
 ---
 
 ## Related Files
 - [Team Presentation Schedule](team-presentation-schedule)
-- 
+- [Syllabus](syllabus)
