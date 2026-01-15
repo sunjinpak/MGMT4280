@@ -114,8 +114,65 @@ def preprocess_markdown(content):
 
     return content
 
+def add_bookmark_hyperlink(paragraph, text, bookmark_name):
+    """Add a hyperlink to a bookmark within the document."""
+    # Create hyperlink element with anchor (internal bookmark reference)
+    hyperlink = parse_xml(
+        f'<w:hyperlink xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" w:anchor="{bookmark_name}">'
+        f'<w:r><w:rPr><w:color w:val="0066CC"/><w:u w:val="single"/></w:rPr>'
+        f'<w:t>{escape_xml(text)}</w:t></w:r></w:hyperlink>'
+    )
+    paragraph._p.append(hyperlink)
+
+def add_toc_links(doc):
+    """Add internal bookmark links to Table of Contents."""
+    # TOC mapping: display text -> bookmark name
+    toc_items = [
+        ("Course Description", "course-description"),
+        ("BSBA Program Learning Objectives", "bsba-program-learning-objectives"),
+        ("Course Learning Objectives", "course-learning-objectives"),
+        ("Required Text and Materials", "required-text-and-materials"),
+        ("Instructional Strategies & Classroom Policies", "instructional-strategies-classroom-policies"),
+        ("Course Assessment", "course-assessment"),
+        ("Course Schedule", "course-schedule"),
+        ("CSUB Student Chapter – SHRM", "csub-student-chapter-shrm"),
+        ("University Policies", "university-policies"),
+    ]
+
+    # Find TOC section and replace text with hyperlinks
+    in_toc = False
+    toc_count = 0
+    for para in doc.paragraphs:
+        if "Table of Contents" in para.text:
+            in_toc = True
+            continue
+
+        if in_toc and toc_count < len(toc_items):
+            # Check if this paragraph matches a TOC item
+            para_text = para.text.strip()
+            for display_text, bookmark in toc_items:
+                if display_text == para_text or para_text.endswith(display_text):
+                    # Clear paragraph XML and rebuild with hyperlink
+                    p = para._p
+                    # Remove all runs
+                    for child in list(p):
+                        if child.tag.endswith('}r') or child.tag.endswith('}hyperlink'):
+                            p.remove(child)
+                    # Add hyperlink
+                    add_bookmark_hyperlink(para, display_text, bookmark)
+                    toc_count += 1
+                    break
+
+            # Stop if we've processed all TOC items or hit next section
+            if para.style and para.style.name.startswith('Heading') and "Table of Contents" not in para.text:
+                break
+
 def postprocess_word(doc, filename=''):
     """Post-process Word document."""
+    # Add TOC internal links for Syllabus
+    if 'syllabus' in filename.lower():
+        add_toc_links(doc)
+
     # Add borders to all tables
     for table in doc.tables:
         set_table_borders(table)
