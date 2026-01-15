@@ -41,13 +41,20 @@ body {
 }
 
 /* Table styling */
+.main-content table {
+  border: 1px solid #000000;
+  border-collapse: collapse;
+}
+
 .main-content table th {
   color: #000000;
   background-color: #f0f0f0;
+  border: 1px solid #000000;
 }
 
 .main-content table td {
   color: #000000;
+  border: 1px solid #000000;
 }
 
 /* Blockquote styling */
