@@ -40,20 +40,24 @@ body {
   text-decoration: underline;
 }
 
-/* Table styling */
-.main-content table {
-  border: 1px solid #000000;
-  border-collapse: collapse;
-}
-
+/* Table styling - default (no black borders) */
 .main-content table th {
   color: #000000;
   background-color: #f0f0f0;
-  border: 1px solid #000000;
 }
 
 .main-content table td {
   color: #000000;
+}
+
+/* Special class for tables with black borders */
+.black-border-table table {
+  border: 2px solid #000000;
+  border-collapse: collapse;
+}
+
+.black-border-table table th,
+.black-border-table table td {
   border: 1px solid #000000;
 }
 
