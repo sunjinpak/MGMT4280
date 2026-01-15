@@ -4,7 +4,7 @@ title: Team Meeting Agenda
 ---
 
 
-[← Back to Home](index) | [Guide and Rubric →](guide-and-rubric)
+[← Back to Home](index) | [Online Team Presentation Rubric →](online-team-presentation-rubric)
 
 **[Download Word Document](Team-Meeting-Agenda.docx)**
 
@@ -189,6 +189,6 @@ Discuss the case using the IRAC Framework:
 ---
 
 ## Related Files
-- [Guide and Rubric](guide-and-rubric)
+- [Online Team Presentation Rubric](online-team-presentation-rubric)
 - [Team Presentation Schedule](team-presentation-schedule)
 

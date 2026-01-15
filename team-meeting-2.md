@@ -129,7 +129,7 @@ Starting next week, teams will present on employment law topics. Review how to p
 | YouTube & Slide Due Date | |
 
 #### Review the Guide
-- Read [Guide and Rubric for Online Presenters](guide-and-rubric)
+- Read [Online Team Presentation Rubric](online-team-presentation-rubric)
 - Discuss any questions with your team and write them in the table below
 
 > **Tip**: If you can't find an answer, copy the Guide and Rubric into ChatGPT Edu and ask it to explain. Or, give ChatGPT the syllabus link and ask questions based on it.
@@ -267,5 +267,5 @@ Starting next week, team meetings will focus on discussing the presenting team's
 
 ## Related Files
 - [Team Meeting Agenda](team-meeting-agenda)
-- [Guide and Rubric for Online Presenters](guide-and-rubric)
+- [Online Team Presentation Rubric](online-team-presentation-rubric)
 - [MGMT 4280 Syllabus](syllabus)
