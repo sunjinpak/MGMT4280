@@ -3,7 +3,7 @@ layout: default
 title: MGMT 4280 Syllabus
 ---
 
-[Home](index) | [Team Meeting Agenda](team-meeting-agenda) | [Guide and Rubric](guide-and-rubric)
+[Home](index)
 
 **[Download Word Document](Syllabus.docx)**
 
@@ -39,7 +39,7 @@ title: MGMT 4280 Syllabus
 5. Instructional Strategies & Classroom Policies
 6. Course Assessment
 7. Course Schedule
-8. CSUB Student Chapter - SHRM
+8. CSUB Student Chapter – SHRM
 9. University Policies
 
 ---
@@ -65,20 +65,20 @@ Upon completion of this course, students will be able to:
 ### Course Structure: The Employee Lifecycle Approach
 This course is organized around the **Employee Lifecycle**, following the natural progression of an employee's journey through an organization. The modules are sequenced to mirror the stages an employee experiences, from hiring to separation. This structure helps you understand employment law not as isolated topics, but as interconnected legal issues that arise at different stages of the employment relationship.
 
-| Stage | Module | Week |
-|---|---|---|
-| **Hiring** | Module 1: Hiring Process & Selection | Week 3 |
-| **Classification** | Module 2: Worker Classification | Week 4 |
-| **Employment Relationship** | Module 3: Employment at Will | Week 5 |
-| **Compensation** | Module 4: Wage & Hour | Week 6 |
-| | Module 5: Overtime | Week 7 |
-| | Module 6: Meal & Rest Breaks | Week 9 |
-| **Working Conditions** | Module 7: Privacy Rights | Week 10 |
-| **Workplace Issues** | Module 8: Employment Discrimination | Week 11 |
-| | Module 9: Harassment | Week 12 |
-| | Module 10: Disability Accommodation | Week 13 |
-| | Module 11: Leaves of Absence | Week 14 |
-| **Separation** | Module 12: Investigations, Termination & Retaliation | Week 15 |
+| Stage                       | Module                                           | Week    |
+| --------------------------- | ------------------------------------------------ | ------- |
+| **Hiring**                  | Module 1: Hiring Process & Selection             | Week 3  |
+| **Classification**          | Module 2: Worker Classification                  | Week 4  |
+| **Employment Relationship** | Module 3: Employment at Will                     | Week 5  |
+| **Compensation**            | Module 4: Wage & Hour                            | Week 6  |
+|                             | Module 5: Overtime                               | Week 7  |
+|                             | Module 6: Meal & Rest Breaks                     | Week 9  |
+| **Working Conditions**      | Module 7: Privacy Rights                         | Week 10 |
+| **Workplace Issues**        | Module 8: Employment Discrimination              | Week 11 |
+|                             | Module 9: Harassment                             | Week 12 |
+|                             | Module 10: Disability Accommodation              | Week 13 |
+|                             | Module 11: Leaves of Absence                     | Week 14 |
+| **Separation**              | Module 12: Investigations, Termination & Retaliation | Week 15 |
 
 By comparing **Federal Law** and **California Law** at each stage, you will gain a comprehensive understanding of how California's employee-friendly regulations often exceed federal requirements. To facilitate this comparison, this course uses two textbooks: one focused on federal employment law and one on California employment law.
 
@@ -111,7 +111,7 @@ Install "Google Sheets" and "Google Docs" on your phone.
 ### 4.5 ChatGPT Edu
 You will need access to ChatGPT Edu to complete various tasks in this course. CSUB students have free access to ChatGPT Edu. Please refer to campus instructions or contact the CSUB IT Help Desk if you need assistance accessing your free subscription (Due: The first day of the semester).
 
-[OpenAI ChatGPT Edu - California State University, Bakersfield](https://www.csub.edu/ai/chatgpt/index.shtml)
+[OpenAI ChatGPT Edu | California State University, Bakersfield](https://www.csub.edu/ai/chatgpt/index.shtml)
 
 ---
 
@@ -146,7 +146,7 @@ You are responsible for keeping your computer up-to-date and fully functional. T
 
 To avoid technical problems during assignments or exams:
 - **Test your device in advance.** Make sure your computer, browser, and any required applications (e.g., Zoom, Google Docs, Canvas) work properly before starting an assignment or test.
-- **Have a backup plan.** If your personal computer does not function properly, you are expected to use a reliable alternative-such as a **computer at the campus library**-to complete your coursework on time.
+- **Have a backup plan.** If your personal computer does not function properly, you are expected to use a reliable alternative—such as a **computer at the campus library**—to complete your coursework on time.
 - **Ensure adequate storage.** Keep at least **10% of your computer's storage free**. During an exam or assignment, you may need to download files or temporarily store data. A lack of available space can cause your system to freeze or crash unexpectedly.
 - **Maintain a stable internet connection.** Wi-Fi interruptions or disconnections will not be accepted as a valid excuse for late submissions. If your home internet is unreliable, please use the university library. Plan to complete your work well before the deadline to minimize risk.
 
@@ -162,34 +162,16 @@ I will work hard to stay on that schedule. However, life is unpredictable, so a 
 
 ### Grading Criteria
 
-| Assessment | Points | % |
-|---|---|---|
-| Week 1 Activity | **13 points** | 1.10% |
-| Module Review Quiz (x12) | **120 points** | 10.19% |
-| Team Meeting Activity (x13) | **195 points** | 16.55% |
-| Team Presentation | **200 points** | 16.98% |
-| Midterm Exam | **250 points** | 21.22% |
-| Final Exam | **400 points** | 33.96% |
-| OCB Bonus | Bonus | Bonus |
-| **Total** | **1,178 points** | **100%** |
-
-**Week 1 Activity (13 points)**
-- Syllabus Knowledge Quiz (5 points)
-- Canvas profile photo and biography (5 points)
-- Photo and preferred name via Google Form (1 point)
-- Team meeting rubric knowledge quiz (2 points)
-
-**Module Review Quiz (120 points)**
-- 10 points x 12 = 120 points
-- Questions from lecture videos and assigned textbook
-
-**Team Meeting Activity (195 points)** - See [Team Meeting Rubric](team-meeting-agenda)
-- Team meeting agenda: 10 pts x 13 = 130 pts
-- Peer evaluation: 5 pts x 13 = 65 pts
-
-**Team Presentation (200 points)** - See [Guide and Rubric](guide-and-rubric)
-- Case discussion: 140 points
-- Peer evaluation: 60 points
+| Assessment                                                                                                                                                                                                            | Points                                                               | %       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------- |
+| Week 1 Activity<br>- Syllabus Knowledge Quiz (5 points)<br>- Canvas profile photo and biography (5 points)<br>- Photo and preferred name via Google Form (1 point)<br>- Team meeting rubric knowledge quiz (2 points) | **Total 13 points**                                                  | 1.10%   |
+| Module Review Quiz (×12 times)<br>- Questions from lecture videos and assigned textbook                                                                                                                               | 10 points × 12 = **120 points**                                      | 10.19%  |
+| Team Meeting Activity (×13 times)<br>- Instructions [Team Meeting Rubric](team-meeting-agenda)<br>- Team meeting agenda (10 points)<br>- Peer evaluation (5 points)                             | 10 pts × 13 = 130 pts<br>5 pts × 13 = 65 pts<br>**Total 195 points** | 16.55%  |
+| Team Presentation<br>- Instructions [Guide and Rubric for Online Presenters](guide-and-rubric)<br>- Case discussion (140 points)<br>- Peer evaluation (60 points)                                                                     | 140 + 60 = **Total 200 points**                                      | 16.98%  |
+| Midterm Exam                                                                                                                                                                                                          | 250 points                                                           | 21.22%  |
+| Final Exam                                                                                                                                                                                                            | 400 points                                                           | 33.96%  |
+| Organizational citizenship behavior (OCB) score                                                                                                                                                                       | Bonus                                                                | Bonus   |
+| **Total**                                                                                                                                                                                                             | **1,178 points**                                                     | 100.00% |
 
 ### Grading Components
 
@@ -236,7 +218,7 @@ Organizational Citizenship Behavior (OCB) refers to voluntary actions that go be
 ### Grading Scale
 
 | Grade | Range |
-|---|---|
+|-------|-------|
 | A | 100% to 94.0% |
 | A- | < 94.0% to 90.0% |
 | B+ | < 90.0% to 87.0% |
@@ -260,279 +242,44 @@ Grades will be accessible by password only on MY CSUB (https://my.csub.edu/). Fo
 
 ### Important Dates
 
-| Date | Event |
-|---|---|
-| Jan 19 (Mon) | HOLIDAY - Martin Luther King, Jr. Day - Campus Closed |
-| Jan 20 (Tue) | First Day of Classes |
-| Mar 30 - Apr 5 | Spring Semester Break (No Classes) |
-| Mar 31 (Tue) | HOLIDAY - Cesar Chavez Day - Campus Closed |
-| Apr 20 - Apr 24 | SOCI Week (Online and Paper SOCIs) |
-| May 11 (Mon) | Last Day of Classes |
-| May 12 - May 18 | Examination Period |
-| May 19 - May 20 | Evaluation Days |
-| May 21 (Thu) | Grades Due |
+| Date            | Event                                                 |
+| --------------- | ----------------------------------------------------- |
+| Jan 19 (Mon)    | HOLIDAY - Martin Luther King, Jr. Day - Campus Closed |
+| Jan 20 (Tue)    | First Day of Classes                                  |
+| Mar 30 - Apr 5  | Spring Semester Break (No Classes)                    |
+| Mar 31 (Tue)    | HOLIDAY - Cesar Chavez Day - Campus Closed            |
+| Apr 20 - Apr 24 | SOCI Week (Online and Paper SOCIs)                    |
+| May 11 (Mon)    | Last Day of Classes                                   |
+| May 12 - May 18 | Examination Period                                    |
+| May 19 - May 20 | Evaluation Days                                       |
+| May 21 (Thu)    | Grades Due                                            |
 
 ### Weekly Schedule (Mon - Sun)
 
----
-
-#### Week 1 (1/19 ~ 1/25)
-
-**Read the Syllabus**
-- Read the syllabus carefully. **(Due: By the end of the week)**
-- If you spot errors or have questions about the course materials, please email me. You can earn 1 OCB (Organizational Citizenship Behavior) bonus point for providing constructive feedback or thoughtful questions via email.
-- Syllabus Knowledge Quiz **(Due: By the end of the week)**
-
-**Updating Canvas Profile Photo and Biography**
-- Upload your photo and biography in Canvas [Updating Your Canvas Profile Photo and Biography](updating-canvas-profile)
-
-**Preparing for Team Meetings**
-- Team meeting rubric knowledge quiz **(Due: By the end of the week)**
-
-**Frequently Asked Questions**
-- Q1. How many team members are allowed for our team projects?
-- A1. There will be four to five students assigned to a team.
-
-- Review the [team assignment](https://docs.google.com/spreadsheets/d/1RReQqKICDKQinxK5MsUPZfKTdoXriUjxVFsybCBApaQ/edit?gid=775776418#gid=775776418) to identify your team members and ascertain your role for the initial meeting. **(Due: By the end of the week)**
-- Read the Rubric for a team meeting and take the quiz [Rubric](https://docs.google.com/document/d/1TAdNW-HoFhD6kt8INq-p42SEFgIBOI89cXI9qQuosmw/edit#heading=h.5y1e7jhfnobr) **(Due: By the end of the week)**
-- Notetaker only: Contact your team members to propose a meeting time and create the Zoom link for the group. If you reach out but do not receive a reply from a team member, please inform your instructor about who has not responded. [Sample email instruction](https://docs.google.com/document/d/1Qg-o7h_zT2IMHanKoNsk2pvB2XXwb5G3nHvFOcVU674/edit?usp=sharing) **(Due: 1/23 Thu 11:59 pm)**
-- If you do not receive an email from your assigned notetaker proposing a meeting time by **1/25 (Sat) 11:59 pm**, you should step in as the notetaker. Send an email to your teammates proposing a meeting time and CC your instructor. By doing this, you will receive an OCB bonus point.
+| Class                                        | Contents                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Week 1<br>1/19 ~ 1/25                        | ---------------------------------------------<br>**Read the Syllabus**<br>---------------------------------------------<br>Read the syllabus carefully. **(Due: By the end of the week)**<br>: If you spot errors or have questions about the course materials, please email me. You can earn 1 OCB (Organizational Citizenship Behavior) bonus point for providing constructive feedback or thoughtful questions via email.<br>→ Syllabus Knowledge Quiz **(Due: By the end of the week)**<br><br>---------------------------------------------<br>**Updating Canvas Profile Photo and Biography**<br>---------------------------------------------<br>→ Upload your photo and biography in Canvas [Updating Your Canvas Profile Photo and Biography](updating-canvas-profile)<br><br>---------------------------------------------<br>**Preparing for Team Meetings**<br>---------------------------------------------<br>→ Team meeting rubric knowledge quiz **(Due: By the end of the week)**<br><br>**Frequently Asked Questions**<br>Q1. How many team members are allowed for our team projects?<br>A1. There will be four to five students assigned to a team.<br><br>→ Review the [team assignment](https://docs.google.com/spreadsheets/d/1RReQqKICDKQinxK5MsUPZfKTdoXriUjxVFsybCBApaQ/edit?gid=775776418#gid=775776418) to identify your team members and ascertain your role for the initial meeting. **(Due: By the end of the week)**<br>→ Read the Rubric for a team meeting and take the quiz \[[Rubric](https://docs.google.com/document/d/1TAdNW-HoFhD6kt8INq-p42SEFgIBOI89cXI9qQuosmw/edit#heading=h.5y1e7jhfnobr)\] **(Due: By the end of the week)**<br>→ Notetaker only: Contact your team members to propose a meeting time and create the Zoom link for the group. If you reach out but do not receive a reply from a team member, please inform your instructor about who has not responded. \[[Sample email instruction](https://docs.google.com/document/d/1Qg-o7h_zT2IMHanKoNsk2pvB2XXwb5G3nHvFOcVU674/edit?usp=sharing)\] **(Due: 1/23 Thu 11:59 pm)**<br>→ If you do not receive an email from your assigned notetaker proposing a meeting time by **1/25 (Sat) 11:59 pm**, you should step in as the notetaker. Send an email to your teammates proposing a meeting time and CC your instructor. By doing this, you will receive an OCB bonus point. |
+| Week 2<br>1/26 ~ 2/1                         | **Team Meeting 1**: [Icebreaker & Team Setup](team-meeting-1)<br>→ Notetaker: Download [Team Meeting 1](team-meeting-1) and start Zoom recording<br>→ All members: Update your Zoom name to "First Name Last Name" before the meeting<br>→ Notetakers only: Submit team meeting agenda **(Due: By the end of the week)**<br>→ Notetakers only: Share transcript with team & submit email screenshot **(Due: By the end of the week)**<br>→ [Peer review evaluation](https://sunjinpak.github.io/MGMT4280-peer-review/) **(Due: By the end of the week)**<br>After you complete the survey, you will receive a completion code. Send the completion code to your notetaker.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Week 3<br>2/2 ~ 2/8                          | **Module 1: Hiring Process & Selection** (CA: Ch 6 / Federal: Ch 2, 3)<br>→ Watch Video A: \[Job Descriptions & Selection\] \[Link\] **(Due: By the end of the week)**<br>→ Watch Video B: \[Background Checks & Social Media\] \[Link\] **(Due: By the end of the week)**<br>→ Module Review Quiz **(Due: By the end of the week)**<br><br>**Team Meeting 2**: [Meeting Notes with AI & Preparation](team-meeting-2)<br>→ Notetaker: Download [Team Meeting 2](team-meeting-2) and use it to guide the discussion<br>→ Notetakers only: submit team meeting agenda **(Due: By the end of the week)**<br>→ [Peer review evaluation](https://sunjinpak.github.io/MGMT4280-peer-review/) **(Due: By the end of the week)**<br>After you complete the survey, you will receive a completion code. Send the completion code to your notetaker.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Week 4<br>2/9 ~ 2/15                         | **Module 2: Worker Classification** (CA: Ch 5 / Federal: Ch 1)<br>→ Watch Video A: \[The Employment Relationship\] \[Link\] **(Due: By the end of the week)**<br>→ Watch Video B: \[Worker Classification Tests\] \[Link\] **(Due: By the end of the week)**<br>→ Module Review Quiz **(Due: By the end of the week)**<br><br>**Team Presentation** (Team TBD) \[Video, Slide\]<br>→ Case from [*Employment Law*](https://amzn.to/49xmOjo) Ch 1<br>→ Presenters [Instructions](guide-and-rubric):<br>  ① Create slide and record 25-min YouTube presentation **(Due: 2/8 Sun 11:59pm)**<br>  ② Post 3 discussion questions and YouTube link on Canvas **(Due: 2/8 Sun 11:59pm)**<br>  ③ Peer review evaluation \[Link\] **(Due: 2/8 Sun 11:59pm)**<br><br>**Team Meeting 3**: [Worker Classification](team-meeting-agenda)<br>→ Notetaker: Download [Team Meeting Agenda](team-meeting-agenda) and use it to guide the discussion<br>→ Discuss using the 3 discussion questions from the presenter's video<br>→ Notetakers only: submit team meeting agenda **(Due: By the end of the week)**<br>→ [Peer review evaluation](https://sunjinpak.github.io/MGMT4280-peer-review/) **(Due: By the end of the week)**<br>After you complete the survey, you will receive a completion code. Send the completion code to your notetaker.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Week 5<br>2/16 ~ 2/22                        | **Module 3: Employment at Will** (CA: Ch 2 / Federal: Ch 1, 5)<br>→ Watch Video A: \[At-Will Doctrine & Exceptions\] \[Link\] **(Due: By the end of the week)**<br>→ Watch Video B: \[Wrongful Termination\] \[Link\] **(Due: By the end of the week)**<br>→ Module Review Quiz **(Due: By the end of the week)**<br><br>**Team Presentation** (Team TBD) \[Video, Slide\]<br>→ Case from [*Employment Law*](https://amzn.to/49xmOjo) Ch 1 or 5<br>→ Presenters [Instructions](guide-and-rubric):<br>  ① Create slide and record 25-min YouTube presentation **(Due: 2/15 Sun 11:59pm)**<br>  ② Post 3 discussion questions and YouTube link on Canvas **(Due: 2/15 Sun 11:59pm)**<br>  ③ Peer review evaluation \[Link\] **(Due: 2/15 Sun 11:59pm)**<br><br>**Team Meeting 4**: [Employment at Will](team-meeting-agenda)<br>→ Notetaker: Download [Team Meeting Agenda](team-meeting-agenda) and use it to guide the discussion<br>→ Discuss using the 3 discussion questions from the presenter's video<br>→ Notetakers only: submit team meeting agenda **(Due: By the end of the week)**<br>→ [Peer review evaluation](https://sunjinpak.github.io/MGMT4280-peer-review/) **(Due: By the end of the week)**<br>After you complete the survey, you will receive a completion code. Send the completion code to your notetaker.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Week 6<br>2/23 ~ 3/1                         | **Module 4: Wage & Hour** (CA: Ch 7 / Federal: Ch 19)<br>→ Watch Video A: \[Minimum Wage & Tip Credit\] \[Link\] **(Due: By the end of the week)**<br>→ Watch Video B: \[Pay Statements & Final Paychecks\] \[Link\] **(Due: By the end of the week)**<br>→ Module Review Quiz **(Due: By the end of the week)**<br><br>**Team Presentation** (Team TBD) \[Video, Slide\]<br>→ Case from [*Employment Law*](https://amzn.to/49xmOjo) Ch 19<br>→ Presenters [Instructions](guide-and-rubric):<br>  ① Create slide and record 25-min YouTube presentation **(Due: 2/22 Sun 11:59pm)**<br>  ② Post 3 discussion questions and YouTube link on Canvas **(Due: 2/22 Sun 11:59pm)**<br>  ③ Peer review evaluation \[Link\] **(Due: 2/22 Sun 11:59pm)**<br><br>**Team Meeting 5**: [Wage & Hour](team-meeting-agenda)<br>→ Notetaker: Download [Team Meeting Agenda](team-meeting-agenda) and use it to guide the discussion<br>→ Discuss using the 3 discussion questions from the presenter's video<br>→ Notetakers only: submit team meeting agenda **(Due: By the end of the week)**<br>→ [Peer review evaluation](https://sunjinpak.github.io/MGMT4280-peer-review/) **(Due: By the end of the week)**<br>After you complete the survey, you will receive a completion code. Send the completion code to your notetaker.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Week 7<br>3/2 ~ 3/8                          | **Module 5: Overtime** (CA: Ch 8 / Federal: Ch 19)<br>→ Watch Video A: \[Daily vs Weekly Overtime\] \[Link\] **(Due: By the end of the week)**<br>→ Watch Video B: \[Exempt vs Non-Exempt\] \[Link\] **(Due: By the end of the week)**<br>→ Module Review Quiz **(Due: By the end of the week)**<br><br>**Team Presentation** (Team TBD) \[Video, Slide\]<br>→ Case from [*Employment Law*](https://amzn.to/49xmOjo) Ch 19<br>→ Presenters [Instructions](guide-and-rubric):<br>  ① Create slide and record 25-min YouTube presentation **(Due: 3/1 Sun 11:59pm)**<br>  ② Post 3 discussion questions and YouTube link on Canvas **(Due: 3/1 Sun 11:59pm)**<br>  ③ Peer review evaluation \[Link\] **(Due: 3/1 Sun 11:59pm)**<br><br>**Team Meeting 6**: [Overtime](team-meeting-agenda)<br>→ Notetaker: Download [Team Meeting Agenda](team-meeting-agenda) and use it to guide the discussion<br>→ Discuss using the 3 discussion questions from the presenter's video<br>→ Notetakers only: submit team meeting agenda **(Due: By the end of the week)**<br>→ [Peer review evaluation](https://sunjinpak.github.io/MGMT4280-peer-review/) **(Due: By the end of the week)**<br>After you complete the survey, you will receive a completion code. Send the completion code to your notetaker.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Week 8<br>3/9 ~ 3/15                         | **Midterm Exam** (50 questions / 40 minutes)<br>- The exam will be available on Canvas between 3/9, 12:01 AM and 3/15, 11:59 PM.<br>- Covers Module 1-5 (Week 3-7)<br>- **Question Sources**:<br>  - Module Review Quiz (Module 1-5)<br>  - Team Presentations & Discussion Questions (Module 2-5)<br>- Once you start your exam, you have limited time to complete it.<br>- The order of questions will be different for students.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Week 9<br>3/16 ~ 3/22                        | **Module 6: Meal & Rest Breaks** (CA: Ch 9 / Federal: Ch 19)<br>→ Watch Video A: \[Meal Periods & Waivers\] \[Link\] **(Due: By the end of the week)**<br>→ Watch Video B: \[Rest Breaks, Heat & Seating\] \[Link\] **(Due: By the end of the week)**<br>→ Module Review Quiz **(Due: By the end of the week)**<br><br>**Team Presentation** (Team TBD) \[Video, Slide\]<br>→ Case from [*Employment Law*](https://amzn.to/49xmOjo) Ch 19<br>→ Presenters [Instructions](guide-and-rubric):<br>  ① Create slide and record 25-min YouTube presentation **(Due: 3/15 Sun 11:59pm)**<br>  ② Post 3 discussion questions and YouTube link on Canvas **(Due: 3/15 Sun 11:59pm)**<br>  ③ Peer review evaluation \[Link\] **(Due: 3/15 Sun 11:59pm)**<br><br>**Team Meeting 7**: [Meal & Rest Breaks](team-meeting-agenda)<br>→ Notetaker: Download [Team Meeting Agenda](team-meeting-agenda) and use it to guide the discussion<br>→ Discuss using the 3 discussion questions from the presenter's video<br>→ Notetakers only: submit team meeting agenda **(Due: By the end of the week)**<br>→ [Peer review evaluation](https://sunjinpak.github.io/MGMT4280-peer-review/) **(Due: By the end of the week)**<br>After you complete the survey, you will receive a completion code. Send the completion code to your notetaker.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Week 10<br>3/23 ~ 3/29                       | **Module 7: Privacy Rights** (CA: Ch 10 / Federal: Ch 4)<br>→ Watch Video A: \[Workplace Monitoring & Searches\] \[Link\] **(Due: By the end of the week)**<br>→ Watch Video B: \[Drug Testing & Data Rights\] \[Link\] **(Due: By the end of the week)**<br>→ Module Review Quiz **(Due: By the end of the week)**<br><br>**Team Presentation** (Team TBD) \[Video, Slide\]<br>→ Case from [*Employment Law*](https://amzn.to/49xmOjo) Ch 4<br>→ Presenters [Instructions](guide-and-rubric):<br>  ① Create slide and record 25-min YouTube presentation **(Due: 3/22 Sun 11:59pm)**<br>  ② Post 3 discussion questions and YouTube link on Canvas **(Due: 3/22 Sun 11:59pm)**<br>  ③ Peer review evaluation \[Link\] **(Due: 3/22 Sun 11:59pm)**<br><br>**Team Meeting 8**: [Privacy Rights](team-meeting-agenda)<br>→ Notetaker: Download [Team Meeting Agenda](team-meeting-agenda) and use it to guide the discussion<br>→ Discuss using the 3 discussion questions from the presenter's video<br>→ Notetakers only: submit team meeting agenda **(Due: By the end of the week)**<br>→ [Peer review evaluation](https://sunjinpak.github.io/MGMT4280-peer-review/) **(Due: By the end of the week)**<br>After you complete the survey, you will receive a completion code. Send the completion code to your notetaker.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Spring Break**<br>3/30 ~ 4/5               | **No Classes**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Week 11<br>4/6 ~ 4/12                        | **Module 8: Employment Discrimination** (CA: Ch 12 / Federal: Ch 7, 9, 10, 11, 13)<br>→ Watch Video A: \[Disparate Treatment & Protected Classes\] \[Link\] **(Due: By the end of the week)**<br>→ Watch Video B: \[Disparate Impact & Defenses\] \[Link\] **(Due: By the end of the week)**<br>→ Module Review Quiz **(Due: By the end of the week)**<br><br>**Team Presentation** (Team TBD) \[Video, Slide\]<br>→ Case from [*Employment Law*](https://amzn.to/49xmOjo) Ch 7, 9, 10, 11, or 13<br>→ Presenters [Instructions](guide-and-rubric):<br>  ① Create slide and record 25-min YouTube presentation **(Due: 4/5 Sun 11:59pm)**<br>  ② Post 3 discussion questions and YouTube link on Canvas **(Due: 4/5 Sun 11:59pm)**<br>  ③ Peer review evaluation \[Link\] **(Due: 4/5 Sun 11:59pm)**<br><br>**Team Meeting 9**: [Employment Discrimination](team-meeting-agenda)<br>→ Notetaker: Download [Team Meeting Agenda](team-meeting-agenda) and use it to guide the discussion<br>→ Discuss using the 3 discussion questions from the presenter's video<br>→ Notetakers only: submit team meeting agenda **(Due: By the end of the week)**<br>→ [Peer review evaluation](https://sunjinpak.github.io/MGMT4280-peer-review/) **(Due: By the end of the week)**<br>After you complete the survey, you will receive a completion code. Send the completion code to your notetaker.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Week 12<br>4/13 ~ 4/19                       | **Module 9: Harassment** (CA: Ch 13 / Federal: Ch 11)<br>→ Watch Video A: \[Types of Harassment\] \[Link\] **(Due: By the end of the week)**<br>→ Watch Video B: \[Employer Liability & Prevention\] \[Link\] **(Due: By the end of the week)**<br>→ Module Review Quiz **(Due: By the end of the week)**<br><br>**Team Presentation** (Team TBD) \[Video, Slide\]<br>→ Case from [*Employment Law*](https://amzn.to/49xmOjo) Ch 11<br>→ Presenters [Instructions](guide-and-rubric):<br>  ① Create slide and record 25-min YouTube presentation **(Due: 4/12 Sun 11:59pm)**<br>  ② Post 3 discussion questions and YouTube link on Canvas **(Due: 4/12 Sun 11:59pm)**<br>  ③ Peer review evaluation \[Link\] **(Due: 4/12 Sun 11:59pm)**<br><br>**Team Meeting 10**: [Harassment](team-meeting-agenda)<br>→ Notetaker: Download [Team Meeting Agenda](team-meeting-agenda) and use it to guide the discussion<br>→ Discuss using the 3 discussion questions from the presenter's video<br>→ Notetakers only: submit team meeting agenda **(Due: By the end of the week)**<br>→ [Peer review evaluation](https://sunjinpak.github.io/MGMT4280-peer-review/) **(Due: By the end of the week)**<br>After you complete the survey, you will receive a completion code. Send the completion code to your notetaker.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Week 13<br>4/20 ~ 4/26                       | **Module 10: Disability Accommodation** (CA: Ch 14 / Federal: Ch 17)<br>→ Watch Video A: \[What Qualifies as a Disability?\] \[Link\] **(Due: By the end of the week)**<br>→ Watch Video B: \[Reasonable Accommodations\] \[Link\] **(Due: By the end of the week)**<br>→ Module Review Quiz **(Due: By the end of the week)**<br>(SOCI Week 4/20-4/24)<br><br>**Team Presentation** (Team TBD) \[Video, Slide\]<br>→ Case from [*Employment Law*](https://amzn.to/49xmOjo) Ch 17<br>→ Presenters [Instructions](guide-and-rubric):<br>  ① Create slide and record 25-min YouTube presentation **(Due: 4/19 Sun 11:59pm)**<br>  ② Post 3 discussion questions and YouTube link on Canvas **(Due: 4/19 Sun 11:59pm)**<br>  ③ Peer review evaluation \[Link\] **(Due: 4/19 Sun 11:59pm)**<br><br>**Team Meeting 11**: [Disability Accommodation](team-meeting-agenda)<br>→ Notetaker: Download [Team Meeting Agenda](team-meeting-agenda) and use it to guide the discussion<br>→ Discuss using the 3 discussion questions from the presenter's video<br>→ Notetakers only: submit team meeting agenda **(Due: By the end of the week)**<br>→ [Peer review evaluation](https://sunjinpak.github.io/MGMT4280-peer-review/) **(Due: By the end of the week)**<br>After you complete the survey, you will receive a completion code. Send the completion code to your notetaker.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Week 14<br>4/27 ~ 5/3                        | **Module 11: Leaves of Absence** (CA: Ch 15 / Federal: Ch 12)<br>→ Watch Video A: \[FMLA & CFRA Basics\] \[Link\] **(Due: By the end of the week)**<br>→ Watch Video B: \[Pregnancy, Sick Leave & Stacking\] \[Link\] **(Due: By the end of the week)**<br>→ Module Review Quiz **(Due: By the end of the week)**<br><br>**Team Presentation** (Team TBD) \[Video, Slide\]<br>→ Case from [*Employment Law*](https://amzn.to/49xmOjo) Ch 12<br>→ Presenters [Instructions](guide-and-rubric):<br>  ① Create slide and record 25-min YouTube presentation **(Due: 4/26 Sun 11:59pm)**<br>  ② Post 3 discussion questions and YouTube link on Canvas **(Due: 4/26 Sun 11:59pm)**<br>  ③ Peer review evaluation \[Link\] **(Due: 4/26 Sun 11:59pm)**<br><br>**Team Meeting 12**: [Leaves of Absence](team-meeting-agenda)<br>→ Notetaker: Download [Team Meeting Agenda](team-meeting-agenda) and use it to guide the discussion<br>→ Discuss using the 3 discussion questions from the presenter's video<br>→ Notetakers only: submit team meeting agenda **(Due: By the end of the week)**<br>→ [Peer review evaluation](https://sunjinpak.github.io/MGMT4280-peer-review/) **(Due: By the end of the week)**<br>After you complete the survey, you will receive a completion code. Send the completion code to your notetaker.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Week 15<br>5/4 ~ 5/10                        | **Module 12: Investigations, Termination & Retaliation** (CA: Ch 16, 17, 18 / Federal: Ch 5)<br>→ Watch Video A: \[Documentation & Defensible Terminations\] \[Link\] **(Due: By the end of the week)**<br>→ Watch Video B: \[Severance Agreements & WARN Act\] \[Link\] **(Due: By the end of the week)**<br>→ Module Review Quiz **(Due: By the end of the week)**<br><br>**Team Presentation** (Team TBD) \[Video, Slide\]<br>→ Case from [*Employment Law*](https://amzn.to/49xmOjo) Ch 5<br>→ Presenters [Instructions](guide-and-rubric):<br>  ① Create slide and record 25-min YouTube presentation **(Due: 5/3 Sun 11:59pm)**<br>  ② Post 3 discussion questions and YouTube link on Canvas **(Due: 5/3 Sun 11:59pm)**<br>  ③ Peer review evaluation \[Link\] **(Due: 5/3 Sun 11:59pm)**<br><br>**Team Meeting 13**: [Termination & Retaliation](team-meeting-agenda)<br>→ Notetaker: Download [Team Meeting Agenda](team-meeting-agenda) and use it to guide the discussion<br>→ Discuss using the 3 discussion questions from the presenter's video<br>→ Notetakers only: submit team meeting agenda **(Due: By the end of the week)**<br>→ [Peer review evaluation](https://sunjinpak.github.io/MGMT4280-peer-review/) **(Due: By the end of the week)**<br>After you complete the survey, you will receive a completion code. Send the completion code to your notetaker.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Examination Period<br>5/12 Tue ~<br>5/18 Mon | **Final Exam** (50 questions / 40 minutes)<br>- The exam will be available on Canvas between 5/12, 12:01 AM and 5/18, 11:59 PM.<br>- Covers Module 1-12 (Week 3-15)<br>- **Question Sources**:<br>  - Module Review Quiz (Module 1-12)<br>  - Team Presentations & Discussion Questions (Module 2-12)<br>- Once you start your exam, you have limited time to complete it.<br>- The order of questions will be different for students.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 5/21 (Thu)                                   | Final Grades Due by 11:59 pm<br>: You can find your final grade in your [Student Center](https://my.csub.edu/).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
 ---
 
-#### Week 2 (1/26 ~ 2/1)
-
-**Team Meeting 1**: [Icebreaker & Team Setup](team-meeting-1)
-- Notetaker: Download [Team Meeting 1](team-meeting-1) and start Zoom recording
-- All members: Update your Zoom name to "First Name Last Name" before the meeting
-- Notetakers only: Submit team meeting agenda **(Due: By the end of the week)**
-- Notetakers only: Share transcript with team & submit email screenshot **(Due: By the end of the week)**
-- [Peer review evaluation](https://sunjinpak.github.io/MGMT4280-peer-review/) **(Due: By the end of the week)**
-- After you complete the survey, you will receive a completion code. Send the completion code to your notetaker.
-
----
-
-#### Week 3 (2/2 ~ 2/8)
-
-**Module 1: Hiring Process & Selection** (CA: Ch 6 / Federal: Ch 2, 3)
-- Watch Video A: Job Descriptions & Selection [Link] **(Due: By the end of the week)**
-- Watch Video B: Background Checks & Social Media [Link] **(Due: By the end of the week)**
-- Module Review Quiz **(Due: By the end of the week)**
-
-**Team Meeting 2**: [Meeting Notes with AI & Preparation](team-meeting-2)
-- Notetaker: Download [Team Meeting 2](team-meeting-2) and use it to guide the discussion
-- Notetakers only: submit team meeting agenda **(Due: By the end of the week)**
-- [Peer review evaluation](https://sunjinpak.github.io/MGMT4280-peer-review/) **(Due: By the end of the week)**
-- After you complete the survey, you will receive a completion code. Send the completion code to your notetaker.
-
----
-
-#### Week 4 (2/9 ~ 2/15)
-
-**Module 2: Worker Classification** (CA: Ch 5 / Federal: Ch 1)
-- Watch Video A: The Employment Relationship [Link] **(Due: By the end of the week)**
-- Watch Video B: Worker Classification Tests [Link] **(Due: By the end of the week)**
-- Module Review Quiz **(Due: By the end of the week)**
-
-**Team Presentation** (Team TBD) [Video, Slide]
-- Case from [*Employment Law*](https://amzn.to/49xmOjo) Ch 1
-- Presenters [Instructions](guide-and-rubric):
-  - Create slide and record 25-min YouTube presentation **(Due: 2/8 Sun 11:59pm)**
-  - Post 3 discussion questions and YouTube link on Canvas **(Due: 2/8 Sun 11:59pm)**
-  - Peer review evaluation [Link] **(Due: 2/8 Sun 11:59pm)**
-
-**Team Meeting 3**: [Worker Classification](team-meeting-agenda)
-- Notetaker: Download [Team Meeting Agenda](team-meeting-agenda) and use it to guide the discussion
-- Discuss using the 3 discussion questions from the presenter's video
-- Notetakers only: submit team meeting agenda **(Due: By the end of the week)**
-- [Peer review evaluation](https://sunjinpak.github.io/MGMT4280-peer-review/) **(Due: By the end of the week)**
-- After you complete the survey, you will receive a completion code. Send the completion code to your notetaker.
-
----
-
-#### Week 5 (2/16 ~ 2/22)
-
-**Module 3: Employment at Will** (CA: Ch 2 / Federal: Ch 1, 5)
-- Watch Video A: At-Will Doctrine & Exceptions [Link] **(Due: By the end of the week)**
-- Watch Video B: Wrongful Termination [Link] **(Due: By the end of the week)**
-- Module Review Quiz **(Due: By the end of the week)**
-
-**Team Presentation** (Team TBD) [Video, Slide]
-- Case from [*Employment Law*](https://amzn.to/49xmOjo) Ch 1 or 5
-- Presenters [Instructions](guide-and-rubric): **(Due: 2/15 Sun 11:59pm)**
-
-**Team Meeting 4**: [Employment at Will](team-meeting-agenda)
-- [Peer review evaluation](https://sunjinpak.github.io/MGMT4280-peer-review/) **(Due: By the end of the week)**
-
----
-
-#### Week 6 (2/23 ~ 3/1)
-
-**Module 4: Wage & Hour** (CA: Ch 7 / Federal: Ch 19)
-- Watch Video A: Minimum Wage & Tip Credit [Link] **(Due: By the end of the week)**
-- Watch Video B: Pay Statements & Final Paychecks [Link] **(Due: By the end of the week)**
-- Module Review Quiz **(Due: By the end of the week)**
-
-**Team Presentation** (Team TBD) - **(Due: 2/22 Sun 11:59pm)**
-
-**Team Meeting 5**: [Wage & Hour](team-meeting-agenda)
-- [Peer review evaluation](https://sunjinpak.github.io/MGMT4280-peer-review/) **(Due: By the end of the week)**
-
----
-
-#### Week 7 (3/2 ~ 3/8)
-
-**Module 5: Overtime** (CA: Ch 8 / Federal: Ch 19)
-- Watch Video A: Daily vs Weekly Overtime [Link] **(Due: By the end of the week)**
-- Watch Video B: Exempt vs Non-Exempt [Link] **(Due: By the end of the week)**
-- Module Review Quiz **(Due: By the end of the week)**
-
-**Team Presentation** (Team TBD) - **(Due: 3/1 Sun 11:59pm)**
-
-**Team Meeting 6**: [Overtime](team-meeting-agenda)
-- [Peer review evaluation](https://sunjinpak.github.io/MGMT4280-peer-review/) **(Due: By the end of the week)**
-
----
-
-#### Week 8 (3/9 ~ 3/15)
-
-**Midterm Exam** (50 questions / 40 minutes)
-- The exam will be available on Canvas between 3/9, 12:01 AM and 3/15, 11:59 PM.
-- Covers Module 1-5 (Week 3-7)
-- **Question Sources**:
-  - Module Review Quiz (Module 1-5)
-  - Team Presentations & Discussion Questions (Module 2-5)
-- Once you start your exam, you have limited time to complete it.
-- The order of questions will be different for students.
-
----
-
-#### Week 9 (3/16 ~ 3/22)
-
-**Module 6: Meal & Rest Breaks** (CA: Ch 9 / Federal: Ch 19)
-- Watch Video A: Meal Periods & Waivers [Link] **(Due: By the end of the week)**
-- Watch Video B: Rest Breaks, Heat & Seating [Link] **(Due: By the end of the week)**
-- Module Review Quiz **(Due: By the end of the week)**
-
-**Team Presentation** (Team TBD) - **(Due: 3/15 Sun 11:59pm)**
-
-**Team Meeting 7**: [Meal & Rest Breaks](team-meeting-agenda)
-- [Peer review evaluation](https://sunjinpak.github.io/MGMT4280-peer-review/) **(Due: By the end of the week)**
-
----
-
-#### Week 10 (3/23 ~ 3/29)
-
-**Module 7: Privacy Rights** (CA: Ch 10 / Federal: Ch 4)
-- Watch Video A: Workplace Monitoring & Searches [Link] **(Due: By the end of the week)**
-- Watch Video B: Drug Testing & Data Rights [Link] **(Due: By the end of the week)**
-- Module Review Quiz **(Due: By the end of the week)**
-
-**Team Presentation** (Team TBD) - **(Due: 3/22 Sun 11:59pm)**
-
-**Team Meeting 8**: [Privacy Rights](team-meeting-agenda)
-- [Peer review evaluation](https://sunjinpak.github.io/MGMT4280-peer-review/) **(Due: By the end of the week)**
-
----
-
-#### Spring Break (3/30 ~ 4/5)
-
-**No Classes**
-
----
-
-#### Week 11 (4/6 ~ 4/12)
-
-**Module 8: Employment Discrimination** (CA: Ch 12 / Federal: Ch 7, 9, 10, 11, 13)
-- Watch Video A: Disparate Treatment & Protected Classes [Link] **(Due: By the end of the week)**
-- Watch Video B: Disparate Impact & Defenses [Link] **(Due: By the end of the week)**
-- Module Review Quiz **(Due: By the end of the week)**
-
-**Team Presentation** (Team TBD) - **(Due: 4/5 Sun 11:59pm)**
-
-**Team Meeting 9**: [Employment Discrimination](team-meeting-agenda)
-- [Peer review evaluation](https://sunjinpak.github.io/MGMT4280-peer-review/) **(Due: By the end of the week)**
-
----
-
-#### Week 12 (4/13 ~ 4/19)
-
-**Module 9: Harassment** (CA: Ch 13 / Federal: Ch 11)
-- Watch Video A: Types of Harassment [Link] **(Due: By the end of the week)**
-- Watch Video B: Employer Liability & Prevention [Link] **(Due: By the end of the week)**
-- Module Review Quiz **(Due: By the end of the week)**
-
-**Team Presentation** (Team TBD) - **(Due: 4/12 Sun 11:59pm)**
-
-**Team Meeting 10**: [Harassment](team-meeting-agenda)
-- [Peer review evaluation](https://sunjinpak.github.io/MGMT4280-peer-review/) **(Due: By the end of the week)**
-
----
-
-#### Week 13 (4/20 ~ 4/26)
-
-**Module 10: Disability Accommodation** (CA: Ch 14 / Federal: Ch 17)
-- Watch Video A: What Qualifies as a Disability? [Link] **(Due: By the end of the week)**
-- Watch Video B: Reasonable Accommodations [Link] **(Due: By the end of the week)**
-- Module Review Quiz **(Due: By the end of the week)**
-- (SOCI Week 4/20-4/24)
-
-**Team Presentation** (Team TBD) - **(Due: 4/19 Sun 11:59pm)**
-
-**Team Meeting 11**: [Disability Accommodation](team-meeting-agenda)
-- [Peer review evaluation](https://sunjinpak.github.io/MGMT4280-peer-review/) **(Due: By the end of the week)**
-
----
-
-#### Week 14 (4/27 ~ 5/3)
-
-**Module 11: Leaves of Absence** (CA: Ch 15 / Federal: Ch 12)
-- Watch Video A: FMLA & CFRA Basics [Link] **(Due: By the end of the week)**
-- Watch Video B: Pregnancy, Sick Leave & Stacking [Link] **(Due: By the end of the week)**
-- Module Review Quiz **(Due: By the end of the week)**
-
-**Team Presentation** (Team TBD) - **(Due: 4/26 Sun 11:59pm)**
-
-**Team Meeting 12**: [Leaves of Absence](team-meeting-agenda)
-- [Peer review evaluation](https://sunjinpak.github.io/MGMT4280-peer-review/) **(Due: By the end of the week)**
-
----
-
-#### Week 15 (5/4 ~ 5/10)
-
-**Module 12: Investigations, Termination & Retaliation** (CA: Ch 16, 17, 18 / Federal: Ch 5)
-- Watch Video A: Documentation & Defensible Terminations [Link] **(Due: By the end of the week)**
-- Watch Video B: Severance Agreements & WARN Act [Link] **(Due: By the end of the week)**
-- Module Review Quiz **(Due: By the end of the week)**
-
-**Team Presentation** (Team TBD) - **(Due: 5/3 Sun 11:59pm)**
-
-**Team Meeting 13**: [Termination & Retaliation](team-meeting-agenda)
-- [Peer review evaluation](https://sunjinpak.github.io/MGMT4280-peer-review/) **(Due: By the end of the week)**
-
----
-
-#### Examination Period (5/12 Tue ~ 5/18 Mon)
-
-**Final Exam** (50 questions / 40 minutes)
-- The exam will be available on Canvas between 5/12, 12:01 AM and 5/18, 11:59 PM.
-- Covers Module 1-12 (Week 3-15)
-- **Question Sources**:
-  - Module Review Quiz (Module 1-12)
-  - Team Presentations & Discussion Questions (Module 2-12)
-- Once you start your exam, you have limited time to complete it.
-- The order of questions will be different for students.
-
----
-
-#### 5/21 (Thu)
-
-Final Grades Due by 11:59 pm
-- You can find your final grade in your [Student Center](https://my.csub.edu/).
-
----
-
-## 8. CSUB Student Chapter - Society for Human Resource Management (SHRM)
+## 8. CSUB Student Chapter – Society for Human Resource Management (SHRM)
 
 All students are invited to join the CSUB student chapter of SHRM. The purpose of this organization is to promote human resource management knowledge on campus, to organize students with similar interests, and to interact with the Kern County SHRM Chapter. SHRM student chapter activities include:
 
@@ -600,9 +347,9 @@ The principles of truth and integrity are recognized as fundamental to our campu
 
 ---
 
-## Related Pages
+## Related Files
 - [Guide and Rubric for Online Presenters](guide-and-rubric)
-- [Team Meeting 1: Icebreaker & Team Setup](team-meeting-1)
-- [Team Meeting 2: Meeting Notes with AI](team-meeting-2)
+- [Team Meeting 1](team-meeting-1)
+- [Team Meeting 2](team-meeting-2)
 - [Team Meeting Agenda](team-meeting-agenda) (Used from Team Meeting 3 until the end of the semester)
 - [Updating Your Canvas Profile Photo and Biography](updating-canvas-profile)
