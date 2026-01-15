@@ -97,6 +97,7 @@ title: Student Roster
 ---
 
 ## Instructor
+
 | Name | Email |
 |------|-------|
 | Sunjin Pak | spak2@csub.edu |
