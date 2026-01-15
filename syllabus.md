@@ -348,8 +348,22 @@ The principles of truth and integrity are recognized as fundamental to our campu
 ---
 
 ## Related Files
-- [Online Team Presentation Rubric](online-team-presentation-rubric)
-- [Team Meeting 1](team-meeting-1)
-- [Team Meeting 2](team-meeting-2)
-- [Team Meeting Agenda](team-meeting-agenda) (Used from Team Meeting 3 until the end of the semester)
-- [Updating Your Canvas Profile Photo and Biography](updating-canvas-profile)
+
+### Rubrics & Guidelines
+- [Online Team Presentation Rubric](online-team-presentation-rubric) - Instructions and grading criteria for team presentations
+- [Team Meeting Rubric](team-meeting-rubric) - Instructions and grading criteria for weekly team meetings
+- [Updating Your Canvas Profile Photo and Biography](updating-canvas-profile) - Guide for Week 1 Canvas profile setup
+
+### Team Meeting Agendas
+- [Team Meeting 1](team-meeting-1) - Icebreaker & Team Setup (Week 2)
+- [Team Meeting 2](team-meeting-2) - Meeting Notes with AI (Week 3)
+- [Team Meeting Agenda](team-meeting-agenda) - Regular meetings template (Week 4-15)
+
+### Schedules & Rosters
+- [Team Presentation Schedule](team-presentation-schedule) - Module assignments and presentation order
+- [Student Roster](roster) - Class roster and team assignments
+
+### External Links
+- [Peer Review Evaluation Survey](https://sunjinpak.github.io/MGMT4280-peer-review/) - Complete after each team meeting
+- [Team Assignment Google Sheet](https://docs.google.com/spreadsheets/d/1RReQqKICDKQinxK5MsUPZfKTdoXriUjxVFsybCBApaQ/edit?gid=775776418#gid=775776418) - View your team members and roles
+- [Course Materials on GitHub Pages](https://sunjinpak.github.io/MGMT4280/) - Online versions of course documents
