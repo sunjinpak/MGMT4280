@@ -32,15 +32,15 @@ title: MGMT 4280 Syllabus
 ---
 
 ## Table of Contents
-1. Course Description
-2. BSBA Program Learning Objectives
-3. Course Learning Objectives
-4. Required Text and Materials
-5. Instructional Strategies & Classroom Policies
-6. Course Assessment
-7. Course Schedule
-8. CSUB Student Chapter – SHRM
-9. University Policies
+1. [Course Description](#1-course-description)
+2. [BSBA Program Learning Objectives](#2-bsba-program-learning-objectives)
+3. [Course Learning Objectives](#3-course-learning-objectives)
+4. [Required Text and Materials](#4-required-text-and-materials)
+5. [Instructional Strategies & Classroom Policies](#5-instructional-strategies--classroom-policies)
+6. [Course Assessment](#6-course-assessment)
+7. [Course Schedule](#7-course-schedule)
+8. [CSUB Student Chapter – SHRM](#8-csub-student-chapter--shrm)
+9. [University Policies](#9-university-policies)
 
 ---
 
