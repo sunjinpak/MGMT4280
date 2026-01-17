@@ -11,7 +11,7 @@ title: Student Roster
 
 ## Course Information
 - **Section**: MGMT 4280-60
-- **Total Students**: 53
+- **Total Students**: 54
 - **Teams**: 11
 
 ---
@@ -73,6 +73,7 @@ title: Student Roster
 | 51  | 11   | Iveth Cruz                          | icruz20@csub.edu            | Note Taker          |
 | 52  | 11   | Jaivir Garcha                       | jgarcha1@csub.edu           | -                   |
 | 53  | 11   | Yazil Duran                         | yduran8@csub.edu            | -                   |
+| 54  | 11   | Alyssa Carrera                      | acarrera13@csub.edu         | -                   |
 
 ---
 
