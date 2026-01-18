@@ -269,7 +269,7 @@ Please format the title as: [MGMT 4280] Module <number>: <title> - Team <#>
 |                                      | Follows all assignment guidelines                           | 3      |
 |                                      | Includes peer review completion codes in slides             | 1      |
 | **Peer Evaluation (60 pts)**         | Completed by all team members after presentation            | 60     |
-| **Bonus (+2 pts)**                   | Shares personal/family/friend experience related to the law | +2     |
+| **Bonus (+1 pt)**                    | Shares personal/family/friend experience related to the law | +1     |
 
 ### Grading Scale
 
