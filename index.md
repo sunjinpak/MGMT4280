@@ -54,6 +54,7 @@ title: Home
 
 ## External Links
 
+- [Syllabus (Google Doc)](https://docs.google.com/document/d/1nwJppCgz8pSm9SOyEMMVBbiRk3cDHASoVBddj05mqLs/edit?tab=t.0) - Editable syllabus document
 - [Peer Review Evaluation Survey](https://sunjinpak.github.io/MGMT4280-peer-review/) - Complete after each team meeting
 - [Team Assignment Google Sheet](https://docs.google.com/spreadsheets/d/1RReQqKICDKQinxK5MsUPZfKTdoXriUjxVFsybCBApaQ/edit?gid=775776418#gid=775776418) - View your team members and roles
 
