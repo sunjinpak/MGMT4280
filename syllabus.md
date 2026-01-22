@@ -28,6 +28,7 @@ title: MGMT 4280 Syllabus
 - **Email**: spak2@csub.edu
 - **Homepage**: www.sunjinpak.com
 - **LinkedIn**: www.linkedin.com/in/sunjinpak
+- **Attendance Sheet**: [Link](https://docs.google.com/spreadsheets/d/1RReQqKICDKQinxK5MsUPZfKTdoXriUjxVFsybCBApaQ/edit?gid=775776418#gid=775776418)
 
 ---
 
@@ -215,6 +216,8 @@ Exams will be based on the lecture videos, textbook readings, and class activiti
 
 Organizational Citizenship Behavior (OCB) refers to voluntary actions that go beyond formal job requirements but contribute to the overall success of an organization. Research shows that teams with high OCB achieve higher productivity, better collaboration, and stronger performance. In this class, you can earn bonus points by providing constructive feedback on course materials, asking thoughtful questions, helping classmates, or going above and beyond in team activities. **If a team member has helped you in any way, please email the instructor to let them know.** Your recognition helps ensure that helpful behaviors are acknowledged and rewarded.
 
+**Check Your OCB Score:** You can view your current OCB score on the [Attendance Sheet](https://docs.google.com/spreadsheets/d/1RReQqKICDKQinxK5MsUPZfKTdoXriUjxVFsybCBApaQ/edit?gid=775776418#gid=775776418).
+
 ### Grading Scale
 
 | Grade | Range |
@@ -371,5 +374,5 @@ The principles of truth and integrity are recognized as fundamental to our campu
 ### External Links
 - [Syllabus (Google Doc)](https://docs.google.com/document/d/1nwJppCgz8pSm9SOyEMMVBbiRk3cDHASoVBddj05mqLs/edit?tab=t.0) - Editable syllabus document
 - [Peer Review Evaluation Survey](https://sunjinpak.github.io/MGMT4280-peer-review/) - Complete after each team meeting
-- [Team Assignment Google Sheet](https://docs.google.com/spreadsheets/d/1RReQqKICDKQinxK5MsUPZfKTdoXriUjxVFsybCBApaQ/edit?gid=775776418#gid=775776418) - View your team members and roles
+- [Attendance Sheet](https://docs.google.com/spreadsheets/d/1RReQqKICDKQinxK5MsUPZfKTdoXriUjxVFsybCBApaQ/edit?gid=775776418#gid=775776418) - View your team members, roles, and OCB score
 - [Course Materials on GitHub Pages](https://sunjinpak.github.io/MGMT4280/) - Online versions of course documents
