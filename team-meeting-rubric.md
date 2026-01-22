@@ -184,6 +184,14 @@ You will rate **yourself and all team members** on a 1-5 scale based on their co
 
 ## Tips for Success
 
+### For Meeting Facilitators
+
+1. **Start on time** - Begin the meeting promptly, even if not everyone has joined yet
+2. **Guide the agenda** - Move the team through each section systematically
+3. **Keep discussions focused** - Redirect off-topic conversations back to the agenda
+4. **Ensure participation** - Invite quieter members to share their perspectives
+5. **Monitor time** - Keep track of time for each section to finish on schedule
+
 ### For Note Takers
 
 1. **Download the template** before the meeting starts
