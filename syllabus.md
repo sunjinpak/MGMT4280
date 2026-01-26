@@ -16,7 +16,7 @@ title: MGMT 4280 Syllabus
 - **Units**: 3
 - **Term**: Spring 2026 (1/20/2026 - 5/18/2026)
 - **Format**: Online (Asynchronous)
-- **Enrollment**: 54 students
+- **Enrollment**: 55 students
 - **Prerequisites**: MGMT 3000 and MGMT 3100
 
 *This syllabus is subject to change based on the needs of the class.*
