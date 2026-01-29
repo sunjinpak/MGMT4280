@@ -62,19 +62,19 @@ title: Student Roster
 | 40  | 8    | Paul Rivas                          | privas5@csub.edu            | -                   |
 | 41  | 9    | Aliasgar Cassim                     | acassim1@csub.edu           | Meeting Facilitator |
 | 42  | 9    | Grecia Patino                       | gpatino3@csub.edu           | Note Taker          |
-| 43  | 9    | Jazmin Gallardo-Acevedo             | jgallardo27@csub.edu        | -                   |
-| 44  | 9    | Lisa Bryant                         | lbryant3@csub.edu           | -                   |
+| 43  | 9    | Iqra Sajid                          | isajid@csub.edu             | -                   |
+| 44  | 9    | Jazmin Gallardo-Acevedo             | jgallardo27@csub.edu        | -                   |
 | 45  | 9    | Saul Gallo                          | sgallo2@csub.edu            | -                   |
-| 46  | 9    | Iqra Sajid                          | isajid@csub.edu             | -                   |
-| 47  | 10   | Andrea Vargas-Gonzalez              | avargas80@csub.edu          | Meeting Facilitator |
-| 48  | 10   | Eryka Campos                        | ecampos16@csub.edu          | Note Taker          |
-| 49  | 10   | Ophelia Merchant                    | omerchant@csub.edu          | -                   |
-| 50  | 10   | Yoselyn Ortiz Gutierrez             | yortiz-gutierrez@csub.edu   | -                   |
+| 46  | 10   | Andrea Vargas-Gonzalez              | avargas80@csub.edu          | Meeting Facilitator |
+| 47  | 10   | Eryka Campos                        | ecampos16@csub.edu          | Note Taker          |
+| 48  | 10   | Ophelia Merchant                    | omerchant@csub.edu          | -                   |
+| 49  | 10   | Yoselyn Ortiz Gutierrez             | yortiz-gutierrez@csub.edu   | -                   |
+| 50  | 11   | Alyssa Carrera                      | acarrera13@csub.edu         | -                   |
 | 51  | 11   | Chad Brown                          | cbrown95@csub.edu           | Meeting Facilitator |
 | 52  | 11   | Iveth Cruz                          | icruz20@csub.edu            | Note Taker          |
 | 53  | 11   | Jaivir Garcha                       | jgarcha1@csub.edu           | -                   |
-| 54  | 11   | Yazil Duran                         | yduran8@csub.edu            | -                   |
-| 55  | 11   | Alyssa Carrera                      | acarrera13@csub.edu         | -                   |
+| 54  | 11   | Lisa Bryant                         | lbryant3@csub.edu           | -                   |
+| 55  | 11   | Yazil Duran                         | yduran8@csub.edu            | -                   |
 
 ---
 

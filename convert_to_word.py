@@ -296,7 +296,9 @@ def fix_markdown_tables(md_file):
     return False
 
 def main():
-    os.chdir('/tmp/MGMT4280')
+    # Change to the directory where this script is located
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    os.chdir(script_dir)
 
     # Files to process (excluding index.md and README.md)
     md_files = [
