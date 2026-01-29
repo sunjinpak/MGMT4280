@@ -55,9 +55,20 @@ After the meeting ends, you can download the **transcript** from Zoom. The trans
 1. Download the transcript file from Zoom
 2. Email the transcript file to all team members
 3. Take a **screenshot** of the sent email
-4. Submit the screenshot to Canvas
+4. Paste the screenshot below
 
 > **All Team Members**: This transcript will be used for next week's activity. Please save the transcript file individually. If you don't receive it, ask your note taker to send it to you.
+
+### Email Screenshot (Required)
+
+> **Note Taker**: Paste a screenshot of the sent email showing that you shared the transcript with all team members.
+
+**[Paste your email screenshot here]**
+
+**Screenshot Requirements:**
+- Shows the "To" field with all team members' email addresses
+- Shows the transcript file attached
+- Shows the sent date/time
 
 ---
 
@@ -195,8 +206,8 @@ Discuss team preferences for the team presentation module (Module 2-12).
 
 | Task                                                           | Responsible | Deadline               |
 | -------------------------------------------------------------- | ----------- | ---------------------- |
-| Submit team meeting agenda                                     | Note Taker  | By the end of the week |
-| Share transcript with team & submit email screenshot to Canvas | Note Taker  | By the end of the week |
+| Submit team meeting agenda (with both screenshots)             | Note Taker  | By the end of the week |
+| Share transcript with team via email                           | Note Taker  | By the end of the week |
 | Complete peer review evaluation                                | All members | By the end of the week |
 
 ### Next Meeting
@@ -266,8 +277,8 @@ Discuss team preferences for the team presentation module (Module 2-12).
 - [ ] Note Taker: Paste meeting screenshot into agenda document
 - [ ] Note Taker: Download transcript from Zoom
 - [ ] Note Taker: Email transcript to all team members
-- [ ] Note Taker: Screenshot sent email and submit to Canvas
-- [ ] Note Taker: Submit team meeting agenda (with screenshot) to Canvas
+- [ ] Note Taker: Paste email screenshot into agenda document
+- [ ] Note Taker: Submit team meeting agenda (with both screenshots) to Canvas
 - [ ] All members: Save transcript file for next week's activity
 
 ---
