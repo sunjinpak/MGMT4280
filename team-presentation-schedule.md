@@ -38,19 +38,19 @@ title: Team Presentation Schedule
 | Week | Module | Topic | Team |
 |------|--------|-------|------|
 | Week 3 | Module 1 | Hiring Process & Selection | (No presentation) |
-| Week 4 | Module 2 | Worker Classification | TBD |
-| Week 5 | Module 3 | Employment at Will | TBD |
-| Week 6 | Module 4 | Wage & Hour | TBD |
-| Week 7 | Module 5 | Overtime | TBD |
+| Week 4 | Module 2 | Worker Classification | Team 10 |
+| Week 5 | Module 3 | Employment at Will | Team 8 |
+| Week 6 | Module 4 | Wage & Hour | Team 3 |
+| Week 7 | Module 5 | Overtime | Team 1 |
 | Week 8 | - | **Midterm Exam** | - |
-| Week 9 | Module 6 | Meal & Rest Breaks | TBD |
-| Week 10 | Module 7 | Privacy Rights | TBD |
+| Week 9 | Module 6 | Meal & Rest Breaks | Team 6 |
+| Week 10 | Module 7 | Privacy Rights | Team 5 |
 | Spring Break | - | No Classes | - |
-| Week 11 | Module 8 | Employment Discrimination | TBD |
-| Week 12 | Module 9 | Harassment | TBD |
-| Week 13 | Module 10 | Disability Accommodation | TBD |
-| Week 14 | Module 11 | Leaves of Absence | TBD |
-| Week 15 | Module 12 | Investigations, Termination & Retaliation | TBD |
+| Week 11 | Module 8 | Employment Discrimination | Team 11 |
+| Week 12 | Module 9 | Harassment | Team 4 |
+| Week 13 | Module 10 | Disability Accommodation | Team 9 |
+| Week 14 | Module 11 | Leaves of Absence | Team 7 |
+| Week 15 | Module 12 | Investigations, Termination & Retaliation | Team 2 |
 
 ---
 
