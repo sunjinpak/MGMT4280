@@ -136,24 +136,6 @@ Discuss the following during Week 2 Team Meeting:
 
 ---
 
-## Assignment Tracker
-
-| Team | 1st Preference | 2nd Preference | 3rd Preference | Assigned Module |
-|------|----------------|----------------|----------------|-----------------|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
-| 5 | | | | |
-| 6 | | | | |
-| 7 | | | | |
-| 8 | | | | |
-| 9 | | | | |
-| 10 | | | | |
-| 11 | | | | |
-
----
-
 ## Notes
 - Module 1 (Hiring Process & Selection): No team presentation (first content week)
 - 11 teams matched with 11 modules (Module 2-12) in 1:1 assignment
