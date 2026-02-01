@@ -26,8 +26,9 @@ Each team is tasked with delivering a **25-minute summary** of their assigned mo
 
 Teams are required to:
 - Create a YouTube link for their presentation video
-- Develop three discussion questions
-- Post them along with the video link on the Canvas discussion board
+- Create a Google Slides link for their presentation slides
+- Develop three discussion questions (included in the video and slide)
+- Link the video and slides to the syllabus
 
 **Related**: [Team Presentation Schedule](team-presentation-schedule)
 
