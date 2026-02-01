@@ -11,7 +11,7 @@ title: Student Roster
 
 ## Course Information
 - **Section**: MGMT 4280-60
-- **Total Students**: 55
+- **Total Students**: 54
 - **Teams**: 11
 
 ---
@@ -41,9 +41,8 @@ title: Student Roster
 | 19  | 4    | Jorge Gonzalez                      | jgonzalez426@csub.edu       | -                   |
 | 20  | 4    | Luka Geishauser                     | lgeishauser@csub.edu        | -                   |
 | 21  | 5    | Esperanza Sanchez - Martinez        | esanchez---martine@csub.edu | Meeting Facilitator |
-| 22  | 5    | Iliana Calderon                     | icalderon5@csub.edu         | Note Taker          |
-| 23  | 5    | Jesus Arellanes Gutierrez           | jarellanes-gutierr@csub.edu | -                   |
-| 24  | 5    | Jocelyn Picazo                      | jpicazo4@csub.edu           | -                   |
+| 22  | 5    | Jesus Arellanes Gutierrez           | jarellanes-gutierr@csub.edu | Note Taker          |
+| 23  | 5    | Jocelyn Picazo                      | jpicazo4@csub.edu           | -                   |
 | 25  | 5    | Natalie Portillo                    | nportillo@csub.edu          | -                   |
 | 26  | 6    | Cyrina Perez                        | cperez141@csub.edu          | Meeting Facilitator |
 | 27  | 6    | Danielle Baeza                      | dbaeza1@csub.edu            | Note Taker          |
@@ -86,7 +85,7 @@ title: Student Roster
 | 2    | Brissary Hinojosa Villarreal     | Elissa Arreola   |
 | 3    | Alejandro Ambriz                 | Beatriz Salgado  |
 | 4    | Alexis Headley                   | Brianna Mcgill   |
-| 5    | Esperanza Sanchez - Martinez     | Iliana Calderon  |
+| 5    | Esperanza Sanchez - Martinez     | Jesus Arellanes Gutierrez |
 | 6    | Cyrina Perez                     | Danielle Baeza   |
 | 7    | Allyson Loaisiga                 | Esmeralda Ramirez|
 | 8    | Harrison Allred                  | Jalyn Usher      |
